@@ -1,0 +1,7 @@
+  column   order it should have   measured order
+       0                      2           2.0000
+       1                      4           4.0003
+       2                      6           6.0012
+       3                      8           8.0247
+
+each column removes one more error term, so each gains two orders

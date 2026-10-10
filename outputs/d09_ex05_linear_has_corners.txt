@@ -1,0 +1,5 @@
+slopes of the three pieces: [ 1. -1.  2.]
+at knot 1 (x = 1.0): slope jumps from +1.0 to -1.0
+at knot 2 (x = 2.0): slope jumps from -1.0 to +2.0
+
+the interpolant is continuous and its slope is not.

@@ -1,0 +1,9 @@
+    t       charge      current
+  0.0     1.000000     0.000000
+  1.0    -0.223098    -1.437592
+  2.0    -0.466895     0.899781
+  3.0     0.427543     0.308775
+  4.5    -0.266184    -0.311090
+  6.0     0.158957     0.275947
+
+the two columns are one solution, not two. Neither can be computed alone.

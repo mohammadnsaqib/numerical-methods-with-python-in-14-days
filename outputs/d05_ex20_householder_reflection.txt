@@ -1,0 +1,4 @@
+x            : [ 3.  4. 12.]  length 13.000000
+after one reflection: [-1.300000000000e+01 -8.881784197001e-16 -1.776356839400e-15]
+its length   : 13.000000
+a reflection changes no length, which is why it cannot magnify an error.

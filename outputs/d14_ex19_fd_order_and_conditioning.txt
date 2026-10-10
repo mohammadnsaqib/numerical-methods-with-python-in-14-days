@@ -1,0 +1,11 @@
+  panels          h    largest error    ratio   condition number    ratio
+      10   0.157080        5.732e-04                  5.2961e+01
+      20   0.078540        1.444e-04   3.9711         2.1508e+02   4.0610
+      40   0.039270        3.606e-05   4.0030         8.6353e+02   4.0150
+      80   0.019635        9.014e-06   4.0007         3.4574e+03   4.0037
+     160   0.009817        2.253e-06   4.0002         1.3833e+04   4.0009
+     320   0.004909        5.633e-07   4.0000         5.5334e+04   4.0002
+     640   0.002454        1.408e-07   4.0001         2.2134e+05   4.0001
+
+the error quarters and the conditioning quadruples. One buys what the other
+spends, so the digits actually gained per refinement are fewer than they look.

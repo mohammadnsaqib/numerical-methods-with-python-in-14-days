@@ -1,0 +1,4 @@
+flat  (x-1)**5: at x = 1.01, f(x) = +1.000000e-10, distance from the root = 1e-02
+steep 1e6*(x-1): at x = 1.01, f(x) = +1.000000e+04, distance from the root = 1e-02
+
+a small f value can sit far from the root, and a large one can sit close to it.

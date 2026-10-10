@@ -1,0 +1,10 @@
+    t     y0 = 0.0     y0 = 0.5     y0 = 1.0     y0 = 1.5
+ 0.00     0.000000     0.500000     1.000000     1.500000
+ 0.50     0.601279     1.425639     2.250000     3.074361
+ 1.00     1.281718     2.640859     4.000000     5.359141
+ 1.50     1.768311     4.009155     6.250000     8.490845
+ 2.00     1.610944     5.305472     9.000000    12.694528
+
+every pair started 0.5 apart and ends 3.694528 apart
+that is a factor of 7.389056, and exp(2) is 7.389056
+the curves spread apart and never cross. Two solutions of one equation cannot.

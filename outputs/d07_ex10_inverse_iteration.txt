@@ -1,0 +1,4 @@
+all eigenvalues: [1.2679491924 3.           4.7320508076]
+shift 1.0: found 1.267949192431 in  9 steps, residual 1.94e-08
+shift 3.0: found 3.000000000000 in  2 steps, residual 4.44e-16
+shift 5.0: found 4.732050807569 in  9 steps, residual 5.13e-09

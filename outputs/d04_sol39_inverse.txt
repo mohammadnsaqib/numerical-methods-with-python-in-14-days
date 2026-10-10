@@ -1,0 +1,8 @@
+largest entry of A @ inv minus the identity: 2.524e-16
+largest gap from numpy.linalg.inv        : 1.110e-16
+
+solving once by the inverse : [ 1.089373125215 -0.448227826014  0.404099631321 -0.272023946922
+  0.221734070514  0.9952273021  ]
+solving once by elimination : [ 1.089373125215 -0.448227826014  0.404099631321 -0.272023946922
+  0.221734070514  0.9952273021  ]
+the second costs one third of the work and is the one to use.

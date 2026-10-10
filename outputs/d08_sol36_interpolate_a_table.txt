@@ -1,0 +1,10 @@
+Newton coefficients: [6.11300000e-01 8.63850000e-02 4.14775000e-03 8.74375000e-05
+ 8.31953125e-07]
+ temperature   interpolated
+        10.0       1.197895
+        30.0       4.259738
+        50.0      12.338945
+        70.0      31.229863
+
+at the tabulated points the interpolant reproduces the table:
+  largest miss: 0.000e+00

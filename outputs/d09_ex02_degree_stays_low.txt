@@ -1,0 +1,5 @@
+     5 points: one polynomial has degree    4, a cubic spline has    4 pieces of degree 3
+    10 points: one polynomial has degree    9, a cubic spline has    9 pieces of degree 3
+    50 points: one polynomial has degree   49, a cubic spline has   49 pieces of degree 3
+   500 points: one polynomial has degree  499, a cubic spline has  499 pieces of degree 3
+  5000 points: one polynomial has degree 4999, a cubic spline has 4999 pieces of degree 3

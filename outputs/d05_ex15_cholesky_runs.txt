@@ -1,0 +1,3 @@
+largest entry of L @ L.T minus A: 1.776e-15
+largest gap from scipy's L      : 1.110e-16
+L is lower triangular           : True

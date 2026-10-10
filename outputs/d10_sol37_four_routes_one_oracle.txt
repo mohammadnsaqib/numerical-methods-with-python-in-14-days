@@ -1,0 +1,5 @@
+            route  largest coefficient error
+ normal equations                  9.458e+01
+           our QR                  3.078e-09
+      numpy lstsq                  5.562e-09
+   pseudo-inverse                  2.861e-08

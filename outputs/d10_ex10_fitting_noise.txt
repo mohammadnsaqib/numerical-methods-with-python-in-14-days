@@ -1,0 +1,5 @@
+degree 1: r squared 0.3776680226
+degree 3: r squared 0.7392446822
+degree 7: r squared 1.0000000000
+
+the data was noise. A perfect fit to it describes nothing.

@@ -1,0 +1,2 @@
+reproduces the data: True
+largest gap from scipy: 5.329e-15

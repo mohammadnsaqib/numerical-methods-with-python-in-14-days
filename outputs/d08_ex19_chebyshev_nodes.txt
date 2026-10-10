@@ -1,0 +1,9 @@
+5 points
+  equally spaced: [-1.  -0.5  0.   0.5  1. ]
+  Chebyshev     : [-9.5106e-01 -5.8779e-01  6.1232e-17  5.8779e-01  9.5106e-01]
+  gap at the end: 0.5000 against 0.3633
+9 points
+  equally spaced: [-1.   -0.75 -0.5  -0.25  0.    0.25  0.5   0.75  1.  ]
+  Chebyshev     : [-9.8481e-01 -8.6603e-01 -6.4279e-01 -3.4202e-01  6.1232e-17  3.4202e-01
+  6.4279e-01  8.6603e-01  9.8481e-01]
+  gap at the end: 0.2500 against 0.1188

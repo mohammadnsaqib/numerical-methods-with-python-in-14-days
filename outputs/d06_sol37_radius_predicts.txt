@@ -1,0 +1,7 @@
+  size         method    radius   predicted   actual
+     5         jacobi   0.43301          28       28
+     5   gauss_seidel   0.18750          14       16
+    10         jacobi   0.47975          32       31
+    10   gauss_seidel   0.23016          16       19
+    20         jacobi   0.49442          33       33
+    20   gauss_seidel   0.24445          17       21

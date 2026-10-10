@@ -1,0 +1,3 @@
+natural ends: 1.8348e-03
+clamped ends: 1.6891e-04
+ratio       : 10.86

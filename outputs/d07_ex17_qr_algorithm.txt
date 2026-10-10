@@ -1,0 +1,4 @@
+iterations: 62
+from the QR algorithm: [1.267949192431 3.             4.732050807569]
+from numpy           : [1.267949192431 3.             4.732050807569]
+largest gap          : 2.043e-14

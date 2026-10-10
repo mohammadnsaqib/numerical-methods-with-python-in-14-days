@@ -1,0 +1,3 @@
+fitted coefficients: [ 1.788171 -1.332387  0.380194]
+the true ones      : [ 2.      -1.5      0.4    ]
+r squared          : 0.805670

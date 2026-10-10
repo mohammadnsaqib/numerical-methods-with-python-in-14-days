@@ -1,0 +1,4 @@
+largest eigenvalue found: -6.8242799745930
+largest from numpy      : -6.8242799745930
+iterations              : 41
+residual                : 4.559e-07

@@ -1,0 +1,8 @@
+[[1. 0. 0. 0. 0.]
+ [1. 4. 1. 0. 0.]
+ [0. 1. 4. 1. 0.]
+ [0. 0. 1. 4. 1.]
+ [0. 0. 0. 0. 1.]]
+
+nonzero entries: 11 out of 25
+every row's diagonal exceeds the sum of the rest: True

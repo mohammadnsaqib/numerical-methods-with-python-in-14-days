@@ -1,0 +1,6 @@
+x = 2.0                  f(x) = -1.000000000000000e+00
+x = 2.09                 f(x) = -5.067100000000124e-02
+x = 2.0945               f(x) = -5.745913749990450e-04
+x = 2.0945514815423265   f(x) = -8.881784197001252e-16
+
+the smallest f value here is at the last x, but none of these is proved to be a root.

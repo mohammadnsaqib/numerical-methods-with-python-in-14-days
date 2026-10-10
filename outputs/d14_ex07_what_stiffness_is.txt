@@ -1,0 +1,11 @@
+       t    exp(-1000t)      exp(-t)    their sum
+   0.000      1.000e+00     1.000000     2.000000
+   0.001      3.679e-01     0.999000     1.366880
+   0.005      6.738e-03     0.995012     1.001750
+   0.010      4.540e-05     0.990050     0.990095
+   0.100      3.720e-44     0.904837     0.904837
+   1.000      0.000e+00     0.367879     0.367879
+   3.000      0.000e+00     0.049787     0.049787
+
+after t = 0.01 the fast part contributes 4.5e-05 and never matters again.
+the interesting behaviour lasts to t = 3, three hundred times longer.

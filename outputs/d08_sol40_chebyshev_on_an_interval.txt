@@ -1,0 +1,8 @@
+ points   equally spaced     Chebyshev
+      4        2.575e-02     2.024e-02
+      6        3.705e-03     2.057e-03
+      8        6.537e-04     2.308e-04
+     10        1.287e-04     2.738e-05
+     12        2.712e-05     3.367e-06
+
+the nodes are inside [1, 5] and the smallest is 1.038429

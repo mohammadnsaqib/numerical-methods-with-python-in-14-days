@@ -1,0 +1,4 @@
+the float32 harmonic sum stopped at n = 2097152
+running total : 15.403683
+the term added: 4.7683716e-07
+but the true harmonic series has no finite sum.

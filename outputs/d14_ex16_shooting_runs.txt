@@ -1,0 +1,15 @@
+the slope found      : 1.000000000000326
+the true slope is 1  : error 3.260e-13
+the miss at that slope: 0.000e+00
+secant steps needed  : 2
+largest error in y   : 1.768e-11
+
+     t       computed         sin(t)
+0.0000   0.0000000000   0.0000000000
+0.3927   0.3826834324   0.3826834324
+0.7854   0.7071067812   0.7071067812
+1.1781   0.9238795325   0.9238795325
+1.5708   1.0000000000   1.0000000000
+
+two secant steps are enough. A straight line is determined by two points, and
+the miss is a straight line whenever the equation is.

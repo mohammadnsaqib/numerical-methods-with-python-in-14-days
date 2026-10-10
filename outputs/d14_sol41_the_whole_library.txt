@@ -1,0 +1,14 @@
+     day                      what it contributed         value
+   Day 1      relative error of a 400-step answer    2.4773e-13
+   Day 2   secant steps to find the missing slope    9.0000e+00
+   Day 4        unknowns in the difference system    3.9900e+02
+   Day 5               digits that solve may lose    4.8583e+00
+   Day 6       Newton steps on the nonlinear grid    4.0000e+00
+  Day 11    relative gap between u'' and the loss    6.3372e-08
+  Day 12         relative gap in the heat balance    4.2536e-15
+   Day 9       relative error of a 17-knot spline    9.7477e-05
+  Day 13      steps the fourth-order stepper took    1.6000e+03
+  Day 14      miss at the far boundary, in kelvin    0.0000e+00
+
+ten of the fourteen days appear in one answer, and every one of them is a
+number that can be read rather than a claim that has to be believed.

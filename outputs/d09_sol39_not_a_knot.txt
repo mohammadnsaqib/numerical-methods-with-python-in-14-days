@@ -1,0 +1,5 @@
+natural   : 1.8348e-03
+not-a-knot: 1.0702e-03
+clamped   : 1.6891e-04
+
+clamped needs the true slopes; not-a-knot needs nothing and is nearly as good.

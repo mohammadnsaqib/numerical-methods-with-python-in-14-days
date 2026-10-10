@@ -1,0 +1,8 @@
+  calls        Euler         Heun     midpoint          RK4
+     80    6.550e-02    4.820e-03    9.277e-04    6.990e-06
+    160    3.321e-02    1.216e-03    2.304e-04    4.421e-07
+    320    1.672e-02    3.054e-04    5.738e-05    2.779e-08
+    640    8.390e-03    7.652e-05    1.432e-05    1.742e-09
+   1280    4.203e-03    1.915e-05    3.576e-06    1.090e-10
+
+RK4 spends four evaluations per step and is still ahead of Euler by 7.6 decades at 1280

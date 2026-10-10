@@ -1,0 +1,9 @@
+true: [0.25471876 1.82271708 3.17728292 4.74528124]
+shifts tried    : 29
+rejected by the residual: 23
+distinct found  : 4
+    0.254718759826
+    1.822717080887
+    3.177282919113
+    4.745281240174
+largest gap from the true values: 8.882e-16

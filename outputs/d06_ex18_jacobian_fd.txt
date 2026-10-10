@@ -1,0 +1,7 @@
+estimated Jacobian:
+ [[2.         3.4       ]
+ [2.71828183 1.        ]]
+exact Jacobian    :
+ [[2.         3.4       ]
+ [2.71828183 1.        ]]
+largest gap       : 2.349e-10

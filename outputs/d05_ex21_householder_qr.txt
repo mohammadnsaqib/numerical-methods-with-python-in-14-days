@@ -1,0 +1,3 @@
+orthogonality error, Householder: 1.110e-15
+largest gap in Q @ R minus A    : 1.223e-23
+R is upper triangular           : True

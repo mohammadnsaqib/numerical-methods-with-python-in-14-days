@@ -1,0 +1,8 @@
+  panels    measured error    predicted, low   predicted, high
+       4         8.940e-03         5.208e-03         1.416e-02
+       8         2.237e-03         1.302e-03         3.539e-03
+      16         5.593e-04         3.255e-04         8.849e-04
+      32         1.398e-04         8.138e-05         2.212e-04
+      64         3.496e-05         2.035e-05         5.530e-05
+
+every measured error lies between the two predictions, which is what the formula claims

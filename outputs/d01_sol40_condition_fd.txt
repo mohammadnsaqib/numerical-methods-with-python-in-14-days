@@ -1,0 +1,3 @@
+sqrt at 100  estimated 0.500000000   analytic 0.500000000   rel diff 1.40e-10
+exp at 5     estimated 5.000000000   analytic 5.000000000   rel diff 2.76e-11
+log at 1.5   estimated 2.466303462   analytic 2.466303462   rel diff 1.00e-12

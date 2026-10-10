@@ -1,0 +1,4 @@
+predicted steps: 45
+eccentric anomaly E: 1.2737173866127 in 45 steps
+residual E - e sin E - M: +5.884e-14
+true anomaly, radians: 1.9527545437990

@@ -1,0 +1,6 @@
+          equation   RK4, 200 steps     adaptive   scipy RK45
+  y' = y - t^2 + 1         7.14e-10     1.65e-11     1.89e-10
+         y' = -2ty         1.71e-10     5.49e-11     6.89e-12
+   y' = cos(t) - y         6.48e-10     3.90e-12     1.31e-11
+
+every column is an error against the solution in closed form

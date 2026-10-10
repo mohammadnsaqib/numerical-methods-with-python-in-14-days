@@ -1,0 +1,8 @@
+ second/first  its square   ratio seen   iterations
+         0.20      0.0400     0.040390           10
+         0.50      0.2500     0.250143           22
+         0.80      0.6400     0.639991           60
+         0.95      0.9025     0.902482          231
+
+the ratio seen matches the SQUARE, because the eigenvalue is read off with the
+Rayleigh quotient, whose error is the square of the error in the direction.

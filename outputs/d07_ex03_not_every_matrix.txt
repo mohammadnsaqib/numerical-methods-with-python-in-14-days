@@ -1,0 +1,5 @@
+a quarter turn, eigenvalues: [0.+1.j 0.-1.j]
+a symmetric matrix         : [4.+0.j 2.+0.j]
+
+no real direction survives a quarter turn, so no real eigenvector exists.
+a symmetric matrix always has real eigenvalues and orthogonal eigenvectors.

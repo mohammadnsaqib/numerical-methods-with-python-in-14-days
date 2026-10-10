@@ -1,0 +1,4 @@
+ small  true = 0.000123     approx = 0.000122      abs = 1.0000e-06  rel = 8.1301e-03
+ large  true = 1.23457e+06  approx = 1.234e+06     abs = 5.6700e+02  rel = 4.5927e-04
+
+the large case has the bigger absolute error and the smaller relative error.

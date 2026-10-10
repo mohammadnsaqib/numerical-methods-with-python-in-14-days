@@ -1,0 +1,10 @@
+    method   largest stable z   largest stable h   y(2) just past it
+     euler          -1.999995           0.133333           3.797e+00
+      heun          -1.999995           0.133333           4.046e+00
+  midpoint          -1.999995           0.133333           4.046e+00
+       rk4          -2.785287           0.185686           7.996e+00
+
+Heun and the midpoint rule have the same stability polynomial, so the same limit.
+RK4 survives a step 1.3926 times longer than Euler's, for four times the work.
+A higher order buys accuracy. It does not buy much stability, and Day 14 shows
+what to reach for when the step this allows is still far too short.

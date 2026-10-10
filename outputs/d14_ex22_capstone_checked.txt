@@ -1,0 +1,23 @@
+1. the equation, checked by differencing the answer (Day 11)
+   largest gap between u'' and the loss : 1.045e-03
+   as a share of u'' itself             : 4.111e-08
+2. the heat balance, by quadrature (Day 12)
+   integral of the loss, Simpson        : 1657.081802114
+   integral of the loss, Gauss          : 1657.081853652
+   change in the gradient, u'(L) - u'(0): 1657.081802114
+   they differ by                       : 4.547e-12
+3. the shape, resampled (Days 8 and 9)
+   a spline through 9 points is off by  : 1.944e-01
+   one polynomial through the same 9    : 2.347e-06
+   the POLYNOMIAL wins, by 82830 times. Nine points on a
+   smooth curve over a tenth of a metre is not where Day 8 broke down.
+4. a model fitted to the profile (Day 10)
+   a cubic fit has r squared            : 0.999997416
+   and is still wrong by                : 0.1489 K
+5. the conditioning of the other route (Day 5)
+   digits a 400-panel solve may lose    : 4.8583
+6. against an independent solver
+   its status                           : 0 (The algorithm converged to the desired accuracy.)
+   its slope at x = 0                   : -1938.443862790
+   ours                                 : -1938.443862790
+   largest gap in u across the fin      : 5.230e-12 K

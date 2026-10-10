@@ -1,0 +1,9 @@
+   size      Thomas   full solve     ratio
+    100     0.00020      0.01728     86.92
+    200     0.00039      0.07333    188.71
+    400     0.00078      0.31452    401.82
+    800     0.00157      1.52649    973.40
+
+Thomas grows like n to the power     0.99
+the full solve like n to the power    2.16
+the first is 1 and the second is above 2, so the gap widens with every knot added

@@ -1,0 +1,4 @@
+start   1.0: converged in  6 steps to +0.000000000000
+start  1.39: converged in 12 steps to +0.000000000000
+start   1.4: the derivative is zero: the tangent is flat; reached +2.196354e+282
+start   2.0: the derivative is zero: the tangent is flat; reached -6.999943e+168

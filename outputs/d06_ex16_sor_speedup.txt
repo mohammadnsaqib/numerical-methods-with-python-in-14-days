@@ -1,0 +1,5 @@
+   grid   size   Gauss-Seidel   best SOR   omega   speedup
+  4 by 4      16             56         21    1.27      2.67
+  6 by 6      36            111         31    1.40      3.58
+  8 by 8      64            185         39    1.50      4.74
+ 10 by 10    100            278         47    1.57      5.91

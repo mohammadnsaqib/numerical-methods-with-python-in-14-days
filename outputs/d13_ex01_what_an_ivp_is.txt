@@ -1,0 +1,11 @@
+the equation : y' = y - t^2 + 1,  y(0) = 0.5
+its solution : t**2 + 2*t - 0.5*exp(t) + 1
+
+    t         y(t)    slope there
+  0.0     0.500000       1.500000
+  0.5     1.425639       2.175639
+  1.0     2.640859       2.640859
+  1.5     4.009155       2.759155
+  2.0     5.305472       2.305472
+
+the slope at every point is known before the curve is. That is the whole problem.

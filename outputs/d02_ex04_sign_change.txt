@@ -1,0 +1,5 @@
+f(a) = -1.0  f(b) = 16.0
+signs differ: True
+bisection returned: Result(root=2.0945514815423323, iterations=47, converged)
+root  : 2.094551481542332
+f(root): +6.395e-14

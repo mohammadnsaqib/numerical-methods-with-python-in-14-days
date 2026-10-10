@@ -1,0 +1,8 @@
+40 points, 4000 evaluations
+  Newton: build 0.0008s, evaluate 0.0004s
+  Lagrange: build 0s, evaluate 0.0331s
+  ratio of the two evaluations: 75.8
+
+Newton pays once to build and little to evaluate. Lagrange pays nothing to build
+and the whole cost at every evaluation, which is the wrong way round for a curve
+that is drawn at four thousand points.

@@ -1,0 +1,10 @@
+       equation   steps           Heun       midpoint   which is better
+         y' = y      20      1.091e-03      1.091e-03           neither
+                     80      7.013e-05      7.013e-05           neither
+      y' = -y^2      20      3.950e-04      6.232e-04              Heun
+                     80      2.353e-05      3.571e-05              Heun
+   y' = t - y^2      20      9.057e-04      2.020e-04          midpoint
+                     80      5.248e-05      1.184e-05          midpoint
+
+on the first equation the two are the same computation. On the others they
+are not, and neither is the better one everywhere.

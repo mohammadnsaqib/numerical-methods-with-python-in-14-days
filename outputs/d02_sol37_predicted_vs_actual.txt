@@ -1,0 +1,7 @@
+   tolerance  predicted   actual   agree
+       1e-02          9        9    True
+       1e-04         15       15    True
+       1e-06         22       22    True
+       1e-08         29       29    True
+       1e-10         35       35    True
+       1e-12         42       42    True

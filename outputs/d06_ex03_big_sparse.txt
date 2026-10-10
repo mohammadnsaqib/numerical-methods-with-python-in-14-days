@@ -1,0 +1,4 @@
+size          : 400
+sweeps needed : 21
+largest residual: 9.560e-11
+gap from a direct solve: 4.780e-11

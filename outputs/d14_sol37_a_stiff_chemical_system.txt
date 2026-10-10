@@ -1,0 +1,8 @@
+          method    steps            y0            y1            y2           sum
+  explicit Euler      200           nan           nan           nan           nan
+  explicit Euler    20000  9.851721e-01  3.386394e-05  1.479407e-02   1.000000000
+  implicit Euler      200  9.851773e-01  3.386486e-05  1.478883e-02   1.000000000
+
+the three amounts must add to 1 for ever, because nothing leaves the system.
+the implicit method holds that at 200 steps. The explicit one does not hold it
+at 200 and needs twenty thousand to get there.

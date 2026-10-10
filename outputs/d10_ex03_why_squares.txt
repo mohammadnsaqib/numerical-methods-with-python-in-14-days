@@ -1,0 +1,4 @@
+least SQUARES  : [0.3 2.3]
+least ABSOLUTE : [0.05 2.95]
+outlier residual: squares 1.80 absolute 0.10
+only the squares criterion is minimised by solving a linear system.

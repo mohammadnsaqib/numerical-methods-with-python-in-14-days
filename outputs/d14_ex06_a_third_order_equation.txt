@@ -1,0 +1,9 @@
+    t         computed            exact        error
+ 0.00      3.000000000      3.000000000    0.000e+00
+ 0.50      4.973533759      4.973533759    1.865e-14
+ 1.00     10.475217369     10.475217369    8.296e-13
+ 1.50     24.790356154     24.790356154    4.427e-12
+ 2.00     62.122541415     62.122541415    1.770e-11
+
+an equation of order n becomes n equations of order one, and the solver is
+the same solver. Only the length of the vector changed.

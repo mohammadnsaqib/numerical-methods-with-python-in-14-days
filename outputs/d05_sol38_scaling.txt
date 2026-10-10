@@ -1,0 +1,5 @@
+well scaled rows : 4.0000e+06
+one row multiplied by 1e6: 2.0000e+12
+after equilibration      : 4.0000e+06
+
+the three systems have the same answer; only the row scaling differs.

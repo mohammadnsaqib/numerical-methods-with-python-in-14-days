@@ -1,0 +1,9 @@
+    method   energy at t = 0    at t = 100        drift   position error
+     Euler      0.5000000000      0.824355    6.487e-01        2.444e-01
+      Heun      0.5000000000      0.500002    3.125e-06        2.123e-04
+  midpoint      0.5000000000      0.500002    3.125e-06        2.123e-04
+       RK4      0.5000000000      0.500000   -4.341e-12        2.656e-10
+
+Heun and the midpoint rule agree to every digit, because the equation is linear
+and their two updates then coincide. Euler adds two thirds of the energy again
+over sixteen oscillations. RK4 holds it to eleven digits.

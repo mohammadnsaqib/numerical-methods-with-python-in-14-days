@@ -1,0 +1,5 @@
+  size   from the formula   found by search   sweeps
+     5             1.0519            1.0600       11
+    10             1.0653            1.0700       13
+    20             1.0700            1.0700       18
+    40             1.0713            1.0700       18

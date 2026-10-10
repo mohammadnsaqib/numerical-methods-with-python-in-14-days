@@ -1,0 +1,11 @@
+ slope tried     value at t = 3      what happened
+        0.10      -4.008001e-01             finite
+        0.30      -1.910110e-01             finite
+        0.50       6.384084e-01             finite
+        0.60       3.030727e+00             finite
+        0.70                nan         overflowed
+        0.80                nan         overflowed
+
+between 0.6 and 0.7 the trajectory stops coming back. A root
+finder handed this function gets nothing usable for an answer.
+Nothing is wrong with the boundary problem. The METHOD chose to march.

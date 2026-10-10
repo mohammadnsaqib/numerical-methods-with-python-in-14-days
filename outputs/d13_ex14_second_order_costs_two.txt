@@ -1,0 +1,8 @@
+  calls  Euler steps    Euler error   Heun steps     Heun error
+     40           40      1.275e-01           20      1.890e-02
+     80           80      6.550e-02           40      4.820e-03
+    160          160      3.321e-02           80      1.216e-03
+    320          320      1.672e-02          160      3.054e-04
+    640          640      8.390e-03          320      7.652e-05
+
+Heun takes half as many steps for the same evaluations and is still far ahead

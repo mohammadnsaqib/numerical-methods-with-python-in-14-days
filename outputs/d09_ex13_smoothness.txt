@@ -1,0 +1,6 @@
+  knot    spline slope jump    straight pieces
+     1            1.320e-04          2.000e+00
+     2            1.680e-04          3.000e+00
+
+the spline's jumps are at the size of the difference step used to measure them;
+the straight pieces' are the real corners, of size 2 and 3.

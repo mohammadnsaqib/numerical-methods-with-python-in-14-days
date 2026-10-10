@@ -1,0 +1,3 @@
+fitting log(y) = log(a) + b x
+  a recovered: 2.497209  true 2.5
+  b recovered: 0.810361  true 0.8

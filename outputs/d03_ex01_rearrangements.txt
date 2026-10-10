@@ -1,0 +1,5 @@
+cube root form             g(root) = 2.094551481542327
+solve for the linear term  g(root) = 2.094551481542326
+solve for the constant     g(root) = 2.094551481542327
+
+every one returns the root unchanged, so all three are correct rearrangements.

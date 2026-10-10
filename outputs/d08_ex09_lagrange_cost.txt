@@ -1,0 +1,4 @@
+with three points, value at 1.5: 2.8750000000
+with a fourth added,          : 2.6562500000
+
+every basis function was rebuilt: none of the first three survives the addition.

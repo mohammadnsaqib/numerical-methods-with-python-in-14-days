@@ -1,0 +1,5 @@
+no pivoting  : [0. 1.]
+with pivoting: [1. 1.]
+numpy        : [1. 1.]
+error, no pivoting  : 1.000e+00
+error, with pivoting: 0.000e+00

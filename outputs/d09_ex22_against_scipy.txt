@@ -1,0 +1,5 @@
+  knots    natural spline    shape-preserving
+      5         1.332e-15           1.332e-15
+      8         1.554e-15           1.110e-15
+     12         3.197e-14           1.554e-15
+     20         2.220e-15           1.110e-15

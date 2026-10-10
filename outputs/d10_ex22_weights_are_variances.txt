@@ -1,0 +1,4 @@
+slope's spread over 3000 simulated data sets
+  every point equal     : 0.063930
+  weight 1/sigma        : 0.029121
+  weight 1/sigma squared: 0.012759

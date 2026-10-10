@@ -1,0 +1,18 @@
+ONE panel, on an interval that shrinks
+     width         error   error ratio
+  0.500000     1.346e-02
+  0.250000     1.478e-03        9.1077
+  0.125000     1.733e-04        8.5259
+  0.062500     2.099e-05        8.2564
+  0.031250     2.583e-06        8.1266
+
+n panels, on an interval that does not
+     width         error   error ratio
+  0.500000     3.565e-02
+  0.250000     8.940e-03        3.9876
+  0.125000     2.237e-03        3.9969
+  0.062500     5.593e-04        3.9992
+  0.031250     1.398e-04        3.9998
+
+the ratios are 8 and 4. Halving the width divides one panel's error by eight,
+and there are twice as many panels to add up.

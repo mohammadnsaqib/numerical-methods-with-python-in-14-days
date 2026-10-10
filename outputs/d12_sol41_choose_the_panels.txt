@@ -1,0 +1,9 @@
+panels used            : 81
+widest panel           : 0.250000
+narrowest panel        : 1.221e-04
+ratio                  : 2048
+
+                region   panels   share of the width
+      left of the peak       16                29.0%
+           at the peak       43                 2.0%
+     right of the peak       20                69.0%

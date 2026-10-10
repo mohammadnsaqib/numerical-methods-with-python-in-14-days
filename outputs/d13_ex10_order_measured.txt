@@ -1,0 +1,8 @@
+  steps      Euler       Heun        RK4
+     20
+     40     0.9247     1.9717     3.9828
+     80     0.9607     1.9867     3.9919
+    160     0.9799     1.9936     3.9961
+    320     0.9898     1.9968     3.9979
+
+the measured orders are 1, 2 and 4, which is what the three methods claim

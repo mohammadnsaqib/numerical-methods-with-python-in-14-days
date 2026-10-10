@@ -1,0 +1,6 @@
+  y' = y - t^2 + 1 : solved -> C1*exp(t) + t**2 + 2*t + 1
+     y' = sin(t y) : NotImplementedError
+                     The given ODE -sin(t*f(t)) + Derivative(f(t), t) cannot be solved by the l
+
+the second equation at t = 3, by fourth-order Runge-Kutta: 1.233377004837
+a method that only asks for the slope does not know one is harder than the other.

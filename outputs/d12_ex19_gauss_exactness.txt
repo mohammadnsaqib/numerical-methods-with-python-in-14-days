@@ -1,0 +1,7 @@
+  n   points   exact up to degree   error at 2n-1   error at 2n
+  2        2                    3       2.776e-17     5.556e-03
+  3        3                    5       5.551e-17     3.571e-04
+  4        4                    7       1.110e-16     2.268e-05
+  5        5                    9       0.000e+00     1.432e-06
+
+a rule on a fixed grid with n points reaches degree n-1. Freeing the points doubles it.

@@ -1,0 +1,5 @@
+first derivative : round-off grows like eps / h,     best h ~ eps^(1/3) = 6.055e-06
+second derivative: round-off grows like eps / h^2,   best h ~ eps^(1/4) = 1.221e-04
+
+measured best step, first derivative : 3.162e-06, error 6.050e-13
+measured best step, second derivative: 7.943e-05, error 1.500e-10

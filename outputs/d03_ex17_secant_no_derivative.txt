@@ -1,0 +1,3 @@
+converged: True  steps: 11
+root     : 0.18783530748064
+f(root)  : +0.000e+00

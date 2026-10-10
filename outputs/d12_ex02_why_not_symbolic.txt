@@ -1,0 +1,9 @@
+integral of  t**3*exp(t) : found
+                           (t**3 - 3*t**2 + 6*t - 6)*exp(t)
+integral of   exp(-t**2) : found
+                           sqrt(pi)*erf(t)/2
+integral of  exp(sin(t)) : unevaluated
+                           Integral(exp(sin(t)), t)
+
+even the definite form comes back as: Integral(exp(sin(t)), (t, 0, 1))
+its value has to be computed: 1.631869608418051

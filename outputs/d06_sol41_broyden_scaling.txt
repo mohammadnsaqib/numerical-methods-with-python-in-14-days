@@ -1,0 +1,7 @@
+   n  Newton steps  Newton calls  Broyden steps  Broyden calls
+   2             5            30              7             13
+   4             5            50              7             17
+   8             5            90              7             25
+  16             5           170              7             41
+
+Newton's calls grow with n; Broyden's barely move.

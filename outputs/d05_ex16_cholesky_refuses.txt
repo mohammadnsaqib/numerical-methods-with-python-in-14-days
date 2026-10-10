@@ -1,0 +1,5 @@
+positive definite: factored, eigenvalues [2.382 4.618]
+indefinite       : refused -- not positive definite: -8.000e+00 under the root at row 1
+                     eigenvalues [-2.  4.]
+negative definite: refused -- not positive definite: -2.000e+00 under the root at row 0
+                     eigenvalues [-3. -2.]

@@ -1,0 +1,9 @@
+the step to solve : w = 2.0 + 0.1 * f(0.1, w)
+f is linear here  : w * (1 + 1000 * 0.1) = 2.0 + 999 * 0.1 * exp(-0.1)
+so w              = 0.914784733285
+
+an EXPLICIT step would give -9.810000e+01
+the exact value at t = 0.1 is 0.904837418036
+
+the explicit step is off by a factor of ninety. The implicit one is not, and
+the difference is which side of the interval the slope was read from.

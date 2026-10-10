@@ -1,0 +1,3 @@
+the true answer: residual [0. 0. 0.]  size 0.0000e+00
+a near miss   : residual [-0.001  0.002  0.002]  size 3.0000e-03
+a wrong guess : residual [ 6. -9. -4.]  size 1.1533e+01

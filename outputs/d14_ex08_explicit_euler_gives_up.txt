@@ -1,0 +1,11 @@
+the stability limit for Euler is h = 2/1000 = 0.002000
+
+         h   steps to t = 3               y(3)        error
+    0.0025             1200      2.039442e+211   2.039e+211
+    0.0020             1500       1.049788e+00    1.000e+00
+    0.0019             1600       4.978702e-02    4.669e-08
+    0.0010             3000       4.978704e-02    2.491e-08
+
+the exact value at t = 3 is 0.049787068. Past t = 0.01 the solution is a
+plain decaying exponential that ten spline knots would fit. Sixteen hundred
+steps are needed anyway, and it was stability that asked for them.

@@ -1,0 +1,7 @@
+last row of the table, column by column      col 0     col 1     col 2     col 3     col 4
+          centred, gap 2 (correct)   5.63e-05  7.03e-09  1.68e-12  2.33e-15  1.44e-15
+            centred, gap 1 (wrong)   5.63e-05  7.03e-09  8.04e-09  1.34e-11  1.38e-11
+          forward, gap 1 (correct)   1.06e-02  1.09e-04  4.48e-06  1.01e-07  1.24e-08
+            forward, gap 2 (wrong)   1.06e-02  1.09e-04  6.43e-05  5.81e-05  5.67e-05
+
+a wrong gap still produces a full table. Only the errors say it did nothing.

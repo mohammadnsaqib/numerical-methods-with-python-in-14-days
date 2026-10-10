@@ -1,0 +1,4 @@
+tol 1e-02    ->   9 steps, root 1.576171875000, true error 5.38e-03, within tol: True
+tol 1e-04    ->  15 steps, root 1.570770263672, true error 2.61e-05, within tol: True
+tol 1e-08    ->  29 steps, root 1.570796331391, true error 4.60e-09, within tol: True
+tol 1e-12    ->  42 steps, root 1.570796326795, true error 3.93e-13, within tol: True

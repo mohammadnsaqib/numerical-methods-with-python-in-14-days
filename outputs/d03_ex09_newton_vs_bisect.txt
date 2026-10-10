@@ -1,0 +1,4 @@
+function      bisection   secant   newton
+x**3-2x-5            47        7        7
+cos(x)-x             47        7        5
+exp(x)-3             48        9        7

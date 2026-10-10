@@ -1,0 +1,7 @@
+condition number: 4.3545e+17
+first four entries of the answer, all of which should be 1:
+    +1.000003
+    +0.999549
+    +1.014293
+    +0.814741
+largest entry in size: 335.3328

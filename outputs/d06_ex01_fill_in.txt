@@ -1,0 +1,4 @@
+nonzero entries in A : 50
+nonzero entries in LU: 82
+entries in the whole matrix: 144
+the factorisation is 1.64 times as full as A

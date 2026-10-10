@@ -1,0 +1,4 @@
+polynomial of degree 1: r squared 0.95615945, value at x = 8 is -0.9239
+polynomial of degree 2: r squared 0.99915842, value at x = 8 is +0.8636
+polynomial of degree 3: r squared 0.99999107, value at x = 8 is -0.2561
+the true value at x = 8 is 0.1223, and it cannot be negative.

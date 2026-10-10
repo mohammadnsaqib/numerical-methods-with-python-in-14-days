@@ -1,0 +1,4 @@
+starts tried            : 201
+reached -1, 0, +1       : 78 45 78
+failed to converge      : 0
+changes of destination  : 6 -- the map is not three tidy intervals

@@ -1,0 +1,21 @@
+SHOOTING
+  the slope found at x = 0 : -1938.443862790 K per metre
+  the miss at the far end  : 5.684e-14 K
+  secant steps             : 7
+
+FINITE DIFFERENCES
+  interior unknowns        : 399
+  Newton steps             : 4
+  step sizes               : 2.0e+01, 3.9e-02, 1.3e-07, 2.8e-14
+  largest residual left    : 1.638e-06
+
+       x       shooting    differences          gap
+  0.0000   500.00000000   500.00000000    0.000e+00
+  0.0200   465.96203033   465.96204059    1.027e-05
+  0.0400   440.17047866   440.17049245    1.378e-05
+  0.0600   421.19760134   421.19761396    1.263e-05
+  0.0800   408.03449530   408.03450318    7.879e-06
+  0.1000   400.00000000   400.00000000    5.684e-14
+
+the two routes agree to 1.388e-05 K everywhere,
+and they have no line of code in common past the definition of the equation.

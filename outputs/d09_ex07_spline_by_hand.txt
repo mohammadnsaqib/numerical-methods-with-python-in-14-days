@@ -1,0 +1,4 @@
+second derivatives at the knots: [ 0.  -4.4  5.6  0. ]
+the two ends are zero, which is what 'natural' means
+values back at the knots       : [0. 1. 0. 2.]
+the data                       : [0. 1. 0. 2.]

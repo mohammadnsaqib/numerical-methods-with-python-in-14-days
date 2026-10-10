@@ -1,0 +1,6 @@
+x = 1         gap = 2.2204e-16   gap / x = 2.2204e-16
+x = 100       gap = 1.4211e-14   gap / x = 1.4211e-16
+x = 1e+06     gap = 1.1642e-10   gap / x = 1.1642e-16
+x = 1e+12     gap = 1.2207e-04   gap / x = 1.2207e-16
+
+the ratio is always within a factor of two of epsilon: 2.2204e-16

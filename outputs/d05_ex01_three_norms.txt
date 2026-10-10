@@ -1,0 +1,3 @@
+spread out  1-norm  4.0000   2-norm  2.0000   inf-norm  1.0000
+one big     1-norm  2.0000   2-norm  2.0000   inf-norm  2.0000
+mixed       1-norm  3.7500   2-norm  2.3049   inf-norm  2.0000

@@ -1,0 +1,6 @@
+added 0.1 one million times
+  computed      : 100000.0000013329
+  n * 0.1       : 100000.0000000000
+  absolute error: 1.332883e-06
+  the gap between neighbouring numbers here: 1.455e-11
+  so the total is wrong by 91595 representable steps

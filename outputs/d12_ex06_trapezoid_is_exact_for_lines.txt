@@ -1,0 +1,7 @@
+   integrand          one panel              exact        error
+           3     6.000000000000     6.000000000000    0.000e+00
+     2*t + 1     6.000000000000     6.000000000000    0.000e+00
+        t**2     4.000000000000     2.666666666667    1.333e+00
+        t**3     8.000000000000     4.000000000000    4.000e+00
+
+a constant and a straight line are reproduced. Degree 2 is where it starts to be wrong.

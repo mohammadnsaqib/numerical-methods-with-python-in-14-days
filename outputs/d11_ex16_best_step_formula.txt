@@ -1,0 +1,6 @@
+the machine epsilon is 2.220446e-16
+forward difference: h ~ sqrt(eps)      = 1.490116e-08
+centred difference: h ~ cube root(eps) = 6.055454e-06
+
+ forward: predicted 1.490e-08, measured 2.512e-09, error there 2.228e-09
+ centred: predicted 6.055e-06, measured 3.162e-06, error there 6.050e-13

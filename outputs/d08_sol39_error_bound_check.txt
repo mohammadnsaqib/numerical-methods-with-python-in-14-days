@@ -1,0 +1,3 @@
+exp(x)   : actual 2.6549e-06   bound 4.0833e-06   holds: True
+sin(x)   : actual 7.9429e-07   bound 1.5022e-06   holds: True
+1/(1+x)  : actual 1.0488e-04   bound 1.0815e-03   holds: True

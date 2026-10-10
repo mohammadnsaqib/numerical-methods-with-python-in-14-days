@@ -1,0 +1,13 @@
+a fin of length 0.1 m, held at 500 K at one end and 400 K at the other
+the air is at 300 K
+u'' = 100 (u - 300) + 1e-07 (u^4 - 300^4)
+
+      u   carried by air     radiated   radiated share
+    300             0.00         0.00             0.0%
+    350          5000.00       690.62            12.1%
+    400         10000.00      1750.00            14.9%
+    450         15000.00      3290.62            18.0%
+    500         20000.00      5440.00            21.4%
+
+at 500 K radiation carries 21.4 percent of the loss.
+dropping it would be a different problem, not a simpler version of this one.

@@ -1,0 +1,5 @@
+A is 3 by 2 -- more equations than unknowns
+an exact solve refuses: LinAlgError
+  x = [1.0, 1.0]: residual [ 0.  1. -1.]  sum of squares 2.0000
+  x = [1.5, 0.5]: residual [-0.5  1.  -0.5]  sum of squares 1.5000
+  x = [2.0, 0.0]: residual [-1.  1.  0.]  sum of squares 2.0000

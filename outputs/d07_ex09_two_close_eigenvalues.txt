@@ -1,0 +1,4 @@
+gap 0.5   :     21 iterations, eigenvalue 1.0000000000
+gap 0.1   :    114 iterations, eigenvalue 1.0000000000
+gap 0.01  :    952 iterations, eigenvalue 1.0000000000
+gap 0.001 :   7252 iterations, eigenvalue 0.9999999995

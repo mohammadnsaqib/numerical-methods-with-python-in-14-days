@@ -1,0 +1,6 @@
+  points   largest gap from scipy
+       4                2.220e-15
+       6                4.219e-15
+       8                7.394e-14
+      10                3.403e-13
+      12                4.569e-12

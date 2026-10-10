@@ -1,0 +1,3 @@
+unweighted: [-0.38  2.41]
+weighted  : [0.988631 1.041369]
+the first four points alone: [0.99 1.04]

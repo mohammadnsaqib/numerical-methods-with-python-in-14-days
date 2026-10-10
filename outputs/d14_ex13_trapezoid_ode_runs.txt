@@ -1,0 +1,9 @@
+       h   steps    implicit Euler     trapezoidal   trapezoidal ratio
+   0.375       8         1.801e-04       1.700e-06
+   0.200      15         9.770e-05       4.731e-07              3.5937
+   0.100      30         4.921e-05       1.188e-07              3.9827
+   0.050      60         2.468e-05       2.962e-08              4.0113
+   0.025     120         1.236e-05       7.402e-09              4.0010
+
+the implicit Euler column halves. The trapezoidal column quarters, so it is
+second order, and neither ever grows without bound.

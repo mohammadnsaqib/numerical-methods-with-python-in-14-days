@@ -1,0 +1,11 @@
+k1, at the start     = 1.500000000000
+k2, at the middle    = 1.640000000000   using k1 to get there
+k3, at the middle    = 1.654000000000   using k2 to get there
+k4, at the end       = 1.790800000000   using k3 to get there
+weighted 1, 2, 2, 1  = 1.646466666667
+y + h times that     = 0.829293333333
+the exact value      = 0.829298620920
+
+RK4's error   : 0.000005287587
+Heun's error  : 0.003298620920
+the weights 1, 2, 2, 1 over 6 are Simpson's weights 1, 4, 1 over 6, split in two

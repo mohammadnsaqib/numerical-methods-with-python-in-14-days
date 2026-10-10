@@ -1,0 +1,9 @@
+ slope tried    value at pi/2           miss
+      0.0000     0.0000000000  -1.0000000000
+      0.5000     0.5000000000  -0.5000000000
+      1.0000     1.0000000000  -0.0000000000
+      1.5000     1.5000000000   0.5000000000
+      2.0000     2.0000000000   1.0000000000
+
+the miss is a straight line in the slope, because the equation is linear.
+finding where it crosses zero is a root-finding problem, and Day 2 solved those.

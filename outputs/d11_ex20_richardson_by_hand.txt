@@ -1,0 +1,6 @@
+estimate at h = 0.2       : 0.536707487669259   error 3.595e-03
+estimate at h = 0.1      : 0.539402252169760   error 9.001e-04
+the correction (b - a) / 3 : +0.000898254833500
+combined                   : 0.540300507003260   error 1.799e-06
+
+the combination is better than the better of the two by 500 times

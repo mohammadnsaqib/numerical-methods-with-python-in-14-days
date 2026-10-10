@@ -1,0 +1,8 @@
+reproduces the table: True
+ temperature      density
+        10.0     999.3977
+        30.0     995.7318
+        50.0     988.0412
+        70.0     977.6871
+
+the density falls throughout, and so does the spline: True

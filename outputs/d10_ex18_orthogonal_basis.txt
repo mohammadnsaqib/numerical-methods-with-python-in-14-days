@@ -1,0 +1,4 @@
+condition with powers   : 2.4629e+10
+condition with Legendre : 5.7322e+00
+Legendre basis, largest miss: 1.9984e-15
+power basis with QR         : 1.7764e-15

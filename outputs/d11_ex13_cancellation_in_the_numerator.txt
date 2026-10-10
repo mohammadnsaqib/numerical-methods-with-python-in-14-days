@@ -1,0 +1,9 @@
+       h               f(x + h)                   f(x)   shared digits
+   1e-02     0.8468318446180152     0.8414709848078965               2
+   1e-06     0.8414715251097816     0.8414709848078965               6
+   1e-10     0.8414709848619267     0.8414709848078965              10
+   1e-13     0.8414709848079505     0.8414709848078965              13
+   1e-15     0.8414709848078971     0.8414709848078965              15
+
+double precision carries about 16 digits. A numerator that shares 15 of them
+keeps 1, and dividing by h does not put the other 15 back.

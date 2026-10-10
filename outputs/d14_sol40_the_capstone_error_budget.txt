@@ -1,0 +1,22 @@
+the reference slope at x = 0 is -1938.443862789982 K per metre
+
+SHOOTING, whose stepper is fourth order
+   steps        slope found        error    ratio
+      50    -1938.443864814    2.024e-06
+     100    -1938.443862915    1.250e-07    16.19
+     200    -1938.443862798    7.754e-09    16.13
+     400    -1938.443862790    4.709e-10    16.47
+     800    -1938.443862790    1.751e-11    26.90
+
+FINITE DIFFERENCES, which are second order
+  panels   largest error in u    ratio   Newton steps
+      25            3.552e-03                       4
+      50            8.882e-04     4.00              4
+     100            2.221e-04     4.00              4
+     200            5.552e-05     4.00              4
+     400            1.388e-05     4.00              4
+
+the two columns fall at different rates, which is the whole difference between
+the routes: one inherits its stepper's order and one is fixed at two. The last
+shooting ratio overshoots 16 because the secant's own tolerance of 1e-12 is
+being approached, so that row measures the root finder, not the stepper.

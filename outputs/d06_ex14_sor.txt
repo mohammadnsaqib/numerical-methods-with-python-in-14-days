@@ -1,0 +1,5 @@
+omega 0.8:   33 sweeps
+omega 1.0:   21 sweeps   (this is Gauss-Seidel)
+omega 1.2:   23 sweeps
+omega 1.4:   35 sweeps
+omega 1.6:   51 sweeps

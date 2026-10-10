@@ -1,0 +1,4 @@
+random 5 by 5: largest singular value 4.2136072917e+00   2-norm 4.2136072917e+00
+                largest over smallest 1.115453e+01   cond 1.115453e+01
+Hilbert 6    : largest singular value 1.6188998589e+00   2-norm 1.6188998589e+00
+                largest over smallest 1.495106e+07   cond 1.495106e+07

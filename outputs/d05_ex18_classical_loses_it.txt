@@ -1,0 +1,7 @@
+classical Gram-Schmidt, orthogonality error: 5.000e-01
+modified  Gram-Schmidt, orthogonality error: 7.071e-09
+
+Q.T @ Q from the classical form:
+ [[ 1.00000000e+00 -7.07106781e-09 -7.07106781e-09]
+ [-7.07106781e-09  1.00000000e+00  5.00000000e-01]
+ [-7.07106781e-09  5.00000000e-01  1.00000000e+00]]

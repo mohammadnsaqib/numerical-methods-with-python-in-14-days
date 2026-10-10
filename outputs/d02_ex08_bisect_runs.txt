@@ -1,0 +1,5 @@
+root       : 1.570796326794900
+pi/2       : 1.570796326794897
+iterations : 49
+converged  : True
+absolute error against pi/2: 3.553e-15

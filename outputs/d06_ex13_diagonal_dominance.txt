@@ -1,0 +1,5 @@
+dominant, converges    : dominant True   radius 0.4000
+not dominant, converges: dominant False  radius 0.4275
+not dominant, diverges : dominant False  radius 4.0000
+
+dominance is sufficient and not necessary: the middle row proves it.

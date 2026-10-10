@@ -1,0 +1,6 @@
+points          : 15
+x is increasing : False
+s is increasing : True
+passes through every point: True
+length of the polygon : 77.894024
+length of the spline  : 80.497914

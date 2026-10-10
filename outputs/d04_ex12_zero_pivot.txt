@@ -1,0 +1,7 @@
+A =
+ [[0. 1.]
+ [1. 1.]]
+b = [1. 3.]
+gauss_naive: zero pivot at step 0: this method cannot continue
+with pivoting: [2. 1.]
+numpy agrees : [2. 1.]

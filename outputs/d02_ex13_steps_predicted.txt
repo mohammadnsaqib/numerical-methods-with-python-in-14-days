@@ -1,0 +1,4 @@
+cos on [0, 3]       tol 1e-06    predicted  22  actual  22
+cos on [0, 3]       tol 1e-12    predicted  42  actual  42
+x**3-2x-5 on [2, 3] tol 1e-15    predicted  50  actual  50
+sin on [2, 4]       tol 1e-09    predicted  31  actual  31

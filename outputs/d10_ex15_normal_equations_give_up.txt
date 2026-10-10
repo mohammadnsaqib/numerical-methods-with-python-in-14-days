@@ -1,0 +1,4 @@
+condition of A     : 2.4629e+10
+condition of A.T A : 2.1557e+17
+normal equations, largest miss: 9.4186e-09
+QR, largest miss              : 1.7764e-15

@@ -1,0 +1,5 @@
+nmkit newton : 0.7390851332151607
+scipy newton : 0.7390851332151607
+nmkit secant : 0.7390851332151607
+scipy secant : 0.7390851332151607
+largest gap  : 0.000e+00

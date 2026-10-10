@@ -1,0 +1,9 @@
+         h   steps    error at t = 2    ratio
+  0.100000      20         2.420e-01
+  0.050000      40         1.275e-01   1.8983
+  0.025000      80         6.550e-02   1.9462
+  0.012500     160         3.321e-02   1.9723
+  0.006250     320         1.672e-02   1.9859
+  0.003125     640         8.390e-03   1.9929
+
+the ratio is 2, not 4. One power of h was spent on having more steps to take.

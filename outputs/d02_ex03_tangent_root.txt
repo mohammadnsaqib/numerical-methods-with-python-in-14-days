@@ -1,0 +1,7 @@
+x = 0.9    f(x) = 1.000000e-02  sign = +
+x = 0.99   f(x) = 1.000000e-04  sign = +
+x = 1.0    f(x) = 0.000000e+00  sign = 0
+x = 1.01   f(x) = 1.000000e-04  sign = +
+x = 1.1    f(x) = 1.000000e-02  sign = +
+
+f is zero at x = 1 and positive on both sides, so no interval brackets it.

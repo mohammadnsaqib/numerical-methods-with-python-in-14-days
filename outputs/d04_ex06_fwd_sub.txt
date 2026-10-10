@@ -1,0 +1,4 @@
+L has ones on the diagonal, so no division is needed at all.
+b        : [  8. -11.  -3.]
+recovered: [8. 1. 1.]
+true     : [8. 1. 1.]

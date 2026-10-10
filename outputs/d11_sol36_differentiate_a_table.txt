@@ -1,0 +1,14 @@
+    t    formula    velocity     exact      error
+  0.0    forward    0.490500    0.0000  4.905e-01
+  0.1    centred    0.981000    0.9810  1.110e-16
+  0.2    centred    1.962000    1.9620  4.441e-16
+  0.3    centred    2.943000    2.9430  4.441e-16
+  0.4    centred    3.924000    3.9240  4.441e-16
+  0.5    centred    4.905000    4.9050  8.882e-16
+  0.6    centred    5.886000    5.8860  1.776e-15
+  0.7    centred    6.867000    6.8670  2.665e-15
+  0.8    centred    7.848000    7.8480  2.665e-15
+  0.9    centred    8.829000    8.8290  3.553e-15
+  1.0   backward    9.319500    9.8100  4.905e-01
+
+the interior is exact for a parabola, and only the two ends carry an error

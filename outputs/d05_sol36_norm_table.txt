@@ -1,0 +1,5 @@
+      norm         of A    largest stretch found
+         1     5.630862                 4.986309
+         2     3.678007                 3.662563
+       inf     6.704702                 6.065472
+       fro     4.829468      not an induced norm

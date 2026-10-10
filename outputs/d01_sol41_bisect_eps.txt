@@ -1,0 +1,5 @@
+bisection steps : 105
+largest x with 1 + x == 1 : 1.11022302462515654e-16
+smallest x with 1 + x != 1: 1.11022302462515679e-16
+half an epsilon           : 1.11022302462515654e-16
+the threshold is half an epsilon plus one step: True

@@ -1,0 +1,15 @@
+SHOOTING: slope 1.999999999998 (the true one is 2), 2 secant steps
+          largest error 3.553e-13
+
+  panels    largest error    ratio   condition number    ratio
+      10        4.441e-16                  4.0637e+01
+      20        4.885e-15   11.000         1.6444e+02    4.047
+      40        1.199e-14    2.455         6.5966e+02    4.012
+      80        3.730e-14    3.111         2.6405e+03    4.003
+     160        7.727e-14    2.071         1.0564e+04    4.001
+     320        2.403e-13    3.109         4.2258e+04    4.000
+
+the error column RISES. There is no truncation error to fall: a quadratic is
+reproduced exactly by a centred second difference. What is left is round-off,
+amplified by a condition number that quadruples at every refinement, exactly as
+Example 14.19 measured. More panels is the wrong move on this problem.

@@ -1,0 +1,4 @@
+function             bisection    false position
+exp(x) - 3                  41                30
+x**3 - 2x - 5               40                26
+x**10 - 1                   41               108

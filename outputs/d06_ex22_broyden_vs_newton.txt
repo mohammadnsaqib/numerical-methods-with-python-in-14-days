@@ -1,0 +1,4 @@
+Newton :  8 steps,  48 evaluations -> [-1.8162640688  0.8373677999]
+Broyden: 15 steps,  21 evaluations -> [-1.8162640688  0.8373677999]
+scipy fsolve                      -> [-1.8162640688  0.8373677999]
+largest gap between the three: 1.110e-16

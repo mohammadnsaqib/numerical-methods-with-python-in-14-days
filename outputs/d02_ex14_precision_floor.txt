@@ -1,0 +1,13 @@
+requested tolerance : 1e-18
+ulp at the root     : 2.220e-16
+iterations run      : 80 of a cap of 80
+converged           : False -> ran out of iterations
+
+the last six midpoints:
+    1.57079632679489656
+    1.57079632679489656
+    1.57079632679489656
+    1.57079632679489656
+    1.57079632679489656
+    1.57079632679489656
+they are identical, so the bracket stopped shrinking long before the cap.

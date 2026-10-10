@@ -1,0 +1,8 @@
+resistance at zero    100.0875 ohms
+change per degree     0.385018 ohms
+r squared             0.99998947
+largest residual      0.09143 ohms
+residual against 1    +1.421e-13
+residual against T    +8.527e-12
+
+reading at 50 C       119.3384 ohms

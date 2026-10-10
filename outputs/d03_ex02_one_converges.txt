@@ -1,0 +1,3 @@
+cube root form   root 2.094551481542 in 16 steps
+linear term      FAILED: g(x) failed: OverflowError
+constant term    FAILED: ran out of iterations

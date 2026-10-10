@@ -1,0 +1,4 @@
+identity   : cond   1.0000e+00   numpy   1.0000e+00
+well scaled: cond   2.6180e+00   numpy   2.6180e+00
+badly scaled: cond   1.0000e+08   numpy   1.0000e+08
+Hilbert 6  : cond   1.4951e+07   numpy   1.4951e+07

@@ -1,0 +1,8 @@
+1 + eps    == 1 ?  False  value = 1.00000000000000022204
+1 + eps/2  == 1 ?  True   value = 1.00000000000000000000
+1 + eps/4  == 1 ?  True   value = 1.00000000000000000000
+
+but the same deltas are perfectly representable on their own:
+  eps    = 2.220446e-16  is zero ? False
+  eps/2  = 1.110223e-16  is zero ? False
+  eps/4  = 5.551115e-17  is zero ? False

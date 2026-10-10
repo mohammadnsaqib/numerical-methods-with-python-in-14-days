@@ -1,0 +1,5 @@
+f(2) = -1.0   f(3) = 16.0
+bisection would try : 2.500000000000  f = +5.625000
+the chord crosses at: 2.058823529412  f = -0.390800
+
+the chord lands nearer because f(3) is much larger than f(2), so the root is near 2.

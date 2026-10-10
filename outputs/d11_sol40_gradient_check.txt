@@ -1,0 +1,6 @@
+  variable     by differences         in symbols        error
+         u     2.223352090154     2.223352090153    1.710e-12
+         v    -0.193731927394    -0.193731927410    1.624e-11
+         w    -0.396143768547    -0.396143768553    6.200e-12
+
+the step used was 6.055e-06, and 6 function calls were needed for 3 partials

@@ -1,0 +1,4 @@
+starting points tried: 169
+distinct crossings found: 2
+    [-1.816264068825  0.837367799891]  residual 0.00e+00
+    [ 1.004168738475 -1.729637287026]  residual 0.00e+00

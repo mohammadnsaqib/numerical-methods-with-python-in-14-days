@@ -1,0 +1,9 @@
+  minutes    counts        log     weight
+        0      7952    8.98118       7952
+        5      6015    8.70201       6015
+       10      4461    8.40313       4461
+       15      3306    8.10349       3306
+
+half life, weights ignored     11.8320 minutes
+half life, weights used        11.9019 minutes
+the value used to make the data 12.0000 minutes

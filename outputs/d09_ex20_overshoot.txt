@@ -1,0 +1,4 @@
+data range     : 0.0 to 1.0
+spline range   : -0.109240 to 1.109240
+overshoot above: 0.109240
+undershoot below: 0.109240

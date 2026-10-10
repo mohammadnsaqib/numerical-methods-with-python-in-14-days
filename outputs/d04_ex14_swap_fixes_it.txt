@@ -1,0 +1,5 @@
+original order: [0. 1.]
+rows exchanged: [1. 1.]
+numpy         : [1. 1.]
+
+the two systems have the same equations, written in a different order.

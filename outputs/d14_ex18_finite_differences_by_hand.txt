@@ -1,0 +1,13 @@
+6 panels give 5 interior points and a 5 by 5 matrix
+
+   1.93146 -1.00000  0.00000  0.00000  0.00000
+  -1.00000  1.93146 -1.00000  0.00000  0.00000
+   0.00000 -1.00000  1.93146 -1.00000  0.00000
+   0.00000  0.00000 -1.00000  1.93146 -1.00000
+   0.00000  0.00000  0.00000 -1.00000  1.93146
+
+nonzero entries: 13 out of 25
+the widest band: 1
+
+three diagonals and nothing else. Day 9's Thomas algorithm arrives here from
+a completely different direction, and solves this in time proportional to n.

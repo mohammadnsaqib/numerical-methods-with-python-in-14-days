@@ -1,0 +1,10 @@
+        h    clean data    noisy data    noise / h
+    1e-01     9.001e-04     9.001e-04    1.000e-05
+    1e-02     9.005e-06     5.362e-05    1.000e-04
+    1e-03     9.005e-08     5.371e-04    1.000e-03
+    1e-04     9.004e-10     5.510e-03    1.000e-02
+    1e-05     1.114e-11     5.920e-02    1.000e-01
+    1e-06     2.772e-11     5.570e-01    1.000e+00
+
+the noise level replaces the machine epsilon, so the best step moves up by
+the cube root of their ratio: about 1651 times

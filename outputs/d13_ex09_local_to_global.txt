@@ -1,0 +1,10 @@
+         h   steps    local error   steps x local   error at t = 2    ratio
+  0.100000      20      2.972e-03       5.944e-02        2.420e-01   4.0709
+  0.050000      40      7.724e-04       3.090e-02        1.275e-01   4.1256
+  0.025000      80      1.967e-04       1.574e-02        6.550e-02   4.1620
+  0.012500     160      4.962e-05       7.940e-03        3.321e-02   4.1825
+  0.006250     320      1.246e-05       3.988e-03        1.672e-02   4.1933
+  0.003125     640      3.122e-06       1.998e-03        8.390e-03   4.1989
+
+the last column barely moves. The count of steps times one step's error tracks
+the whole error, up to a constant the method does not control.

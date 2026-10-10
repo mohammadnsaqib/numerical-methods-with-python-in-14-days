@@ -1,0 +1,2 @@
+true multiplicity 2: error ratio 0.500000, so m is about 2.000
+true multiplicity 3: error ratio 0.666667, so m is about 3.000

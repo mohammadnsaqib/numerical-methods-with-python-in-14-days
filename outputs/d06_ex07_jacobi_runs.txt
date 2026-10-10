@@ -1,0 +1,4 @@
+answer      : [1. 2. 3.]
+direct solve: [1. 2. 3.]
+sweeps      : 29
+largest gap : 2.274e-13

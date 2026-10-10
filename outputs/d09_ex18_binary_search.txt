@@ -1,0 +1,5 @@
+     10 knots: a linear scan looks at      5 on average, a binary search at   4
+    100 knots: a linear scan looks at     50 on average, a binary search at   7
+   1000 knots: a linear scan looks at    500 on average, a binary search at  10
+  10000 knots: a linear scan looks at   5000 on average, a binary search at  14
+ 100000 knots: a linear scan looks at  50000 on average, a binary search at  17

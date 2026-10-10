@@ -1,0 +1,11 @@
+ terms          partial sum     truncation error
+     2    2.000000000000000            7.183e-01
+     3    2.500000000000000            2.183e-01
+     4    2.666666666666667            5.162e-02
+     5    2.708333333333333            9.948e-03
+     6    2.716666666666666            1.615e-03
+     7    2.718055555555555            2.263e-04
+     8    2.718253968253968            2.786e-05
+     9    2.718278769841270            3.059e-06
+
+the error falls by a growing factor and never reaches zero after finitely many terms.

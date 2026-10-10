@@ -1,0 +1,9 @@
+  calls     trapezoidal         Simpson   how many times
+      5       8.940e-03       3.701e-05            241.5
+      9       2.237e-03       2.326e-06            961.5
+     17       5.593e-04       1.456e-07           3841.5
+     33       1.398e-04       9.103e-09          15361.5
+     65       3.496e-05       5.690e-10          61441.5
+    129       8.740e-06       3.556e-11         245760.5
+
+both columns use the same points. Only the weights differ.

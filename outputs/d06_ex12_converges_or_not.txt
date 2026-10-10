@@ -1,0 +1,4 @@
+radius 0.25: stopped after 21 sweeps, last step 7.958e-13
+               steps 1 to 6: ['8.75e-01', '2.19e-01', '5.47e-02', '1.37e-02', '3.42e-03', '8.54e-04']
+radius 2.00: stopped after 40 sweeps, last step 1.924e+12
+               steps 1 to 6: ['3.50e+00', '7.00e+00', '1.40e+01', '2.80e+01', '5.60e+01', '1.12e+02']

@@ -1,0 +1,9 @@
+         h    forward    centred   five point
+  0.250000
+  0.125000     1.0316     1.9966       3.9919
+  0.062500     1.0175     1.9992       3.9980
+  0.031250     1.0092     1.9998       3.9995
+  0.015625     1.0047     1.9999       3.9999
+  0.007812     1.0024     2.0000       4.0000
+
+the measured orders are 1, 2 and 4, which is what the three formulas claim

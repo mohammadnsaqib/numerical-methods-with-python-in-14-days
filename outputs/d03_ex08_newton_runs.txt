@@ -1,0 +1,4 @@
+converged : True  steps: 7
+root      : 2.0945514815423265
+oracle    : 2.0945514815423265
+abs error : 0.000e+00

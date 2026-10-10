@@ -1,0 +1,4 @@
+length of b           : 4.5371434289
+length of Q.T @ b     : 4.5371434289
+last 8 entries of Q.T b, in length: 4.3432020564
+length of the residual: 4.3432020564

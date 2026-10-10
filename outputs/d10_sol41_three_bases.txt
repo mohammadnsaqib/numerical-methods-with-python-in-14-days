@@ -1,0 +1,8 @@
+           basis    condition number    largest miss
+     powers of x          2.2793e+10      1.8874e-15
+  powers of 2x-1          9.3267e+04      2.4425e-15
+        Legendre          5.3473e+00      3.1086e-15
+       Chebyshev          2.6561e+00      2.9976e-15
+
+Every row fits the same function with the same fourteen degrees of freedom.
+Only the columns differ, and the conditioning spans ten decades.

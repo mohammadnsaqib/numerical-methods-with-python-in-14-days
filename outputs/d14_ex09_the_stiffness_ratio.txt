@@ -1,0 +1,7 @@
+            system    slowest rate    fastest rate        ratio
+     a mild system      1.3820e+00      3.6180e+00   2.6180e+00
+     the stiff one      1.0000e+00      1.0000e+03   1.0000e+03
+  a chemical model      1.4002e-01      5.9990e+02   4.2843e+03
+
+a ratio near one needs nothing special. A ratio in the thousands means the step
+is set by a component that stopped mattering long ago.

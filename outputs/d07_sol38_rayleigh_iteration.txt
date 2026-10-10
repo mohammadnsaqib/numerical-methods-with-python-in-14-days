@@ -1,0 +1,3 @@
+eigenvalue: 4.73205080756888
+residual after each step: ['2.72e-02', '1.40e-05', '2.22e-15', '4.44e-16', '4.44e-16', '4.44e-16', '4.44e-16', '4.44e-16']
+the digits roughly triple each step, which is third order.

@@ -1,0 +1,8 @@
+  panels          left         right        middle
+       4     2.058e-01     2.237e-01     4.467e-03
+       8     1.052e-01     1.096e-01     1.118e-03
+      16     5.314e-02     5.426e-02     2.796e-04
+      32     2.671e-02     2.699e-02     6.992e-05
+      64     1.339e-02     1.346e-02     1.748e-05
+
+left and right are first order. The middle is second, for the same count of calls.

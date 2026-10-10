@@ -1,0 +1,13 @@
+the exact solution is cos(t), so y(3) = -0.989992497
+explicit Euler is stable only while h <= 2/1000 = 0.0020
+
+          method       h   steps   calls  per step          y(3)       error
+  explicit Euler  0.0020    1500    1500      1.00   -0.99006559    7.31e-05
+  explicit Euler  0.0005    6000    6000      1.00   -0.98999274    2.47e-07
+  implicit Euler  0.0500      60     600     10.00   -0.98996789    2.46e-05
+  implicit Euler  0.0100     300    2880      9.60   -0.98998756    4.93e-06
+
+the implicit method evaluates the equation about ten times per step, and the
+finite-difference Jacobian costs most of those. At the coarse end it still
+wins: 600 calls beat 1500 with a smaller error, because stability does not
+hold its step down. For a tight error, explicit Euler at h = 0.0005 wins.

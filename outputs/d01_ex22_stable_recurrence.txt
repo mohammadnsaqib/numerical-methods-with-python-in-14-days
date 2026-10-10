@@ -1,0 +1,4 @@
+started the backward run from a wrong value of 0 at n = 40
+backward I(18) : 0.050119854958094
+oracle   I(18) : 0.050119854958094
+absolute error : 0.000e+00

@@ -1,0 +1,5 @@
+  size   elimination   sweeps   iteration       winner
+    20        0.0009       21      0.0022  elimination
+    40        0.0030       21      0.0042  elimination
+    80        0.0111       21      0.0082    iteration
+   160        0.0455       21      0.0165    iteration

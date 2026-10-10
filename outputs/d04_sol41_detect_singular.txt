@@ -1,0 +1,5 @@
+nonsingular  : diagonal of U [2.  2.5]  smallest 2.000e+00  ratio 8.000e-01
+exactly singular: diagonal of U [2. 0.]  smallest 0.000e+00  ratio 0.000e+00
+nearly singular : diagonal of U [2.000e+00 4.885e-15]  smallest 4.885e-15  ratio 2.442e-15
+
+an exact zero is a certainty; a tiny ratio is a warning, and Day 5 measures it.

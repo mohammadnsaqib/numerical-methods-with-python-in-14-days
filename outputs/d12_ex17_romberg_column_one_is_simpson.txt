@@ -1,0 +1,8 @@
+  panels       Romberg column 1      composite Simpson        gap
+       2     1.7188611518765928     1.7188611518765928    0.0e+00
+       4     1.7183188419217470     1.7183188419217470    0.0e+00
+       8     1.7182841546998968     1.7182841546998970    2.2e-16
+      16     1.7182819740518920     1.7182819740518918    2.2e-16
+
+combining two trapezoidal estimates to cancel the h squared term produces
+exactly the weights 1, 4, 2, 4, 1 -- so the two are the same computation.

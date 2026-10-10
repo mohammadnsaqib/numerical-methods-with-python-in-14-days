@@ -1,0 +1,7 @@
+   smallest true        via A.T A   relative error
+           1e-02     1.000000e-02        1.828e-13
+           1e-04     1.000000e-04        6.195e-09
+           1e-06     9.999807e-07        1.930e-05
+           1e-08     1.146962e-08        1.470e-01
+
+numpy does not form A transposed A, which is why its answers keep their digits.

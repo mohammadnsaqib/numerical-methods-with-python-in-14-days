@@ -1,0 +1,14 @@
+the exact value is 0.003136830762145
+
+                  rule   calls         error
+   uniform, 100 panels     101     3.906e-03
+  uniform, 1000 panels    1001     7.892e-05
+ uniform, 10000 panels   10001     4.814e-17
+uniform, 100000 panels  100001     4.337e-19
+
+   adaptive, tol 1e-08     405     1.147e-08
+   adaptive, tol 1e-10     969     3.375e-11
+   adaptive, tol 1e-13    3981     9.592e-15
+
+at about a thousand calls the uniform rule is wrong in the fifth digit and the
+adaptive one in the eleventh. The peak is one thousandth of the interval wide.

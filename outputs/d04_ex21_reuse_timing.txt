@@ -1,0 +1,6 @@
+40 right-hand sides, matrix 120 by 120
+  factoring every time : 1.174 s
+  factoring once       : 0.059 s
+  ratio                : 19.9
+
+the factorisation is done 40 times instead of once, and that is the whole of it

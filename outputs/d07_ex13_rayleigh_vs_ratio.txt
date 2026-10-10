@@ -1,0 +1,4 @@
+    tilt    Rayleigh error    entry ratio error
+   1e-01         1.980e-02            1.818e-01
+   1e-02         2.000e-04            1.980e-02
+   1e-03         2.000e-06            1.998e-03

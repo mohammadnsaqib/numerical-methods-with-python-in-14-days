@@ -1,0 +1,9 @@
+       h   steps      explicit y(3)    implicit y(3)   implicit error
+   0.500       6         1.5442e+16      0.049801896        1.483e-05
+   0.200      15        -3.0397e+34      0.049792402        5.334e-06
+   0.100      30         7.3974e+59      0.049789646        2.577e-06
+   0.010     300        1.8739e+286      0.049787318        2.500e-07
+   0.002    1500         1.0498e+00      0.049787118        4.987e-08
+
+the exact value is 0.049787068
+at h = 0.5 the implicit method takes six steps and is right to three digits.

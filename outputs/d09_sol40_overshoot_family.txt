@@ -1,0 +1,8 @@
+  step size    spline max    overshoot    shape max
+       0.25      0.277310     0.027310     0.250000
+       0.50      0.554620     0.054620     0.500000
+       1.00      1.109240     0.109240     1.000000
+       2.00      2.218480     0.218480     2.000000
+       4.00      4.436961     0.436961     4.000000
+
+the overshoot is a fixed FRACTION of the step, not a fixed amount.

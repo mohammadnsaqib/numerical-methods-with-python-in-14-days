@@ -1,0 +1,6 @@
+A =
+ [[1. 2.]
+ [2. 4.]]
+determinant: 0.0
+b = [3. 6.] -> refused: Singular matrix
+b = [3. 7.] -> refused: Singular matrix

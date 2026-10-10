@@ -1,0 +1,4 @@
+oracle root 1 : -0.000000010000000000000
+naive  root 1 : -7.45058059692382812e-09   rel err 2.549e-01
+stable root 1 : -1.00000000000000002e-08   rel err 0.000e+00
+product r1*r2 : 1 and c/a is 1.0

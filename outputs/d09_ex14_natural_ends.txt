@@ -1,0 +1,4 @@
+second derivatives at the knots: [ 0.       -0.489679 -0.858405 -1.021216 -0.91805  -0.649649  0.      ]
+the true second derivative of sin is -sin: [-0.       -0.479426 -0.841471 -0.997495 -0.909297 -0.598472 -0.14112 ]
+
+at the ends the spline says 0 and the truth says -0.000000 and -0.141120

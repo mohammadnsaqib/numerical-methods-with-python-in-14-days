@@ -1,0 +1,3 @@
+Vandermonde against Lagrange: 5.940e-12
+Newton against Lagrange     : 1.421e-13
+scipy Barycentric           : 1.324e-11

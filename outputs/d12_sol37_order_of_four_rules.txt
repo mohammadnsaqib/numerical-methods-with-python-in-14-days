@@ -1,0 +1,5 @@
+             rule        n = 8       n = 16       n = 32   measured order
+         midpoint    1.118e-03    2.796e-04    6.992e-05           1.9999
+      trapezoidal    2.237e-03    5.593e-04    1.398e-04           1.9999
+          Simpson    2.326e-06    1.456e-07    9.103e-09           3.9995
+  two-point Gauss    9.706e-08    6.068e-09    3.793e-10           3.9999

@@ -1,0 +1,6 @@
+shape (4, 4): [3.961455 3.173856 1.957219 0.419887]
+               largest gap from mine 1.776e-15
+shape (6, 3): [3.578358 1.837334 1.508553]
+               largest gap from mine 2.220e-16
+shape (3, 6): [4.399556 2.370151 1.2142  ]
+               largest gap from mine 8.882e-16

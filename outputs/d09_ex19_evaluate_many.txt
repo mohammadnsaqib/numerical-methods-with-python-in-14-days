@@ -1,0 +1,3 @@
+knots      : 10000
+evaluations: 100000
+largest error: 3.128e-07

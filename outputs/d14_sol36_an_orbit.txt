@@ -1,0 +1,11 @@
+steps            : 40000
+time covered     : 20.0, about 3.18 orbits
+closest approach : 1.000000000
+furthest         : 1.531645569
+
+          quantity     at the start       at the end        drift
+            energy  -0.395000000000  -0.395000000000    1.665e-16
+  angular momentum   1.100000000000   1.100000000000    3.331e-15
+
+neither quantity was used to compute the orbit, and neither needs a formula
+for it. They are the check Day 13 called for on a problem that has no closed form.

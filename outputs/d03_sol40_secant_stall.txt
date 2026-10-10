@@ -1,0 +1,3 @@
+cos(x)-x    : root +0.7390851332152
+atan(x) far : did not converge -- the two points give the same value
+x**2+1 (none): did not converge -- the two points give the same value

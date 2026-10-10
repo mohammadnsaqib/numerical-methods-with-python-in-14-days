@@ -1,0 +1,5 @@
+halvings needed : 52
+measured epsilon: 2.220446049250313e-16
+sys.float_info  : 2.220446049250313e-16
+they agree      : True
+epsilon as 2**-n: True

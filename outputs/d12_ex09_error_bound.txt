@@ -1,0 +1,9 @@
+the largest second derivative on [0.0, 4.0] is 0.861424
+
+  panels    actual error     the bound   inside?
+       4       9.296e-02     2.871e-01      True
+       8       2.309e-02     7.179e-02      True
+      16       5.763e-03     1.795e-02      True
+      32       1.440e-03     4.487e-03      True
+      64       3.600e-04     1.122e-03      True
+     128       8.999e-05     2.804e-04      True

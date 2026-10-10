@@ -1,0 +1,10 @@
+           integrand   calls       Simpson         Gauss
+    exp(t) on [0, 1]       5     3.701e-05     6.537e-13
+                           9     2.326e-06     2.220e-16
+   sin(t) on [0, pi]       5     4.560e-03     1.103e-07
+                           9     2.692e-04     4.441e-16
+   sqrt(t) on [0, 1]       5     1.014e-02     6.301e-04
+                           9     3.587e-03     1.208e-04
+
+Gauss wins by decades on the smooth rows and by a factor of about twenty on the
+square root, whose derivative is unbounded at zero.

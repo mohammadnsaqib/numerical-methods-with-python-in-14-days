@@ -1,0 +1,5 @@
+b1 = [2. 2.] -> [2. 0.]
+b2 = [2. 2.] -> [1. 1.]
+relative change in b: 3.536e-11
+relative change in x: 7.071e-01
+condition number    : 4.000e+10

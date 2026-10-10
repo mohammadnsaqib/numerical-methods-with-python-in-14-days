@@ -1,0 +1,10 @@
+  minutes     computed        exact        error
+      0.0    95.000000    95.000000    0.000e+00
+      5.0    50.492724    50.492724    1.512e-09
+     10.0    32.397417    32.397417    1.229e-09
+     20.0    22.049279    22.049279    4.065e-10
+     30.0    20.338744    20.338744    1.008e-10
+
+the grid, spaced 0.05 minutes apart, puts the halving at 3.85
+the law says ln(2)/k = 3.850818 minutes
+they differ by 0.0008, which is less than one grid spacing

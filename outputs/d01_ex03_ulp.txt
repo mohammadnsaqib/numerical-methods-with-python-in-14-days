@@ -1,0 +1,9 @@
+x = 1           gap to the next number = 2.220446e-16
+x = 2           gap to the next number = 4.440892e-16
+x = 1000        gap to the next number = 1.136868e-13
+x = 1e+06       gap to the next number = 1.164153e-10
+x = 1e+16       gap to the next number = 2.000000e+00
+x = 1e+300      gap to the next number = 1.487017e+284
+
+at 1e16 the gap is 2.0 so adding 1 changes nothing:
+  1e16 + 1 == 1e16 : True

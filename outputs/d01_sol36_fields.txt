@@ -1,0 +1,8 @@
+x = 1          sign  1  exp     0  sig 1.000000000000000
+              ulp 2.2204e-16   rebuilt exactly ? True
+x = 0.375      sign  1  exp    -2  sig 1.500000000000000
+              ulp 5.5511e-17   rebuilt exactly ? True
+x = -2.5       sign -1  exp     1  sig 1.250000000000000
+              ulp 4.4409e-16   rebuilt exactly ? True
+x = 1e-07      sign  1  exp   -24  sig 1.677721600000000
+              ulp 1.3235e-23   rebuilt exactly ? True

@@ -1,0 +1,10 @@
+slope at the start        k1 = 1.5000000000
+a trial step of h times k1     = 0.8000000000
+slope THERE               k2 = 1.7600000000
+their average                  = 1.6300000000
+y + h times the average        = 0.8260000000
+the exact value at t = 0.2     = 0.8292986209
+
+Heun's error : 0.0032986209
+Euler's error: 0.0292986209
+the trial step is thrown away. Only the slope it revealed is kept.

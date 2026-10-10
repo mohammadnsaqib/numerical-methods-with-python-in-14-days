@@ -1,0 +1,5 @@
+approx = 3.0          rel err = 4.507e-02   correct digits = 1.35
+approx = 3.1          rel err = 1.324e-02   correct digits = 1.88
+approx = 3.14         rel err = 5.070e-04   correct digits = 3.30
+approx = 3.1416       rel err = 2.338e-06   correct digits = 5.63
+approx = 3.14159265   rel err = 1.143e-09   correct digits = 8.94

@@ -1,0 +1,4 @@
+n = 8, so sqrt(n) = 2.8284
+1-norm / 2-norm   ranges over 1.5672 to 2.7869
+2-norm / inf-norm ranges over 1.0580 to 2.3792
+both are bounded by 1 and sqrt(n).

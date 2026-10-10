@@ -1,0 +1,7 @@
+  damping           regime          y(4)   sign changes
+      0.5     under damped   0.015589075              2
+      4.0  critical damped   0.003019164              0
+      8.0      over damped   0.126300793              0
+
+the boundary is at c squared = 4k, which is c = 4.0
+below it the spring oscillates through zero. At and above it, it never does.

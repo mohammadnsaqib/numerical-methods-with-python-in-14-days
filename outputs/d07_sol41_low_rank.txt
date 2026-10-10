@@ -1,0 +1,9 @@
+  kept   error in the 2-norm   the next singular value
+     1          5.3774802958              5.3774802958
+     2          3.9720003740              3.9720003740
+     4          3.2917988877              3.2917988877
+     6          1.7788315816              1.7788315816
+     8          0.7275008427              0.7275008427
+    10          0.0000000000              0.0000000000
+
+the error equals the first singular value that was dropped, every time.

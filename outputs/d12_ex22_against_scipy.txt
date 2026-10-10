@@ -1,0 +1,6 @@
+     integrand   Simpson 64     Romberg    Gauss 10    adaptive       scipy
+     exp(-t^2)    3.88e-09    5.34e-11    3.14e-13    5.75e-14    1.11e-16
+  cos(t)/(1+t)    7.62e-08    1.47e-08    3.15e-10    8.05e-15    5.55e-17
+   sqrt(1+t^3)    6.14e-09    2.66e-11    3.82e-11    3.51e-14    2.22e-16
+
+every column is an error against a value computed at forty digits

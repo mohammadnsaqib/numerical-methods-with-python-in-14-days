@@ -1,0 +1,8 @@
+  size   growth with pivoting
+     5                  2.099
+    10                  4.252
+    20                  4.879
+    50                 10.420
+   100                 17.487
+
+for comparison, the entries of A start at size 1.

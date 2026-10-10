@@ -1,0 +1,2 @@
+9 equally spaced points: middle 1.1913e-03, near the ends 1.8803e-02, ratio 15.8
+17 equally spaced points: middle 1.0531e-06, near the ends 9.4269e-04, ratio 895.2

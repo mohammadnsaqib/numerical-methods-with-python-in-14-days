@@ -1,0 +1,2 @@
+largest gap between the two routes: 7.105e-14
+both pass through every node      : True

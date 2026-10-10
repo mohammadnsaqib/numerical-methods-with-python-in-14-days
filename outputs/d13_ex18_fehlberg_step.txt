@@ -1,0 +1,9 @@
+       h   the difference    error of y4   ratio    error of y5
+  0.4000        5.707e-06      5.123e-06   1.114      5.841e-07
+  0.2000        1.935e-07      1.821e-07   1.062      1.131e-08
+  0.1000        6.317e-09      6.125e-09   1.031      1.928e-10
+  0.0500        2.020e-10      1.988e-10   1.016      3.133e-12
+  0.0250        6.383e-12      6.334e-12   1.008      4.885e-14
+
+the difference tracks the FOURTH-order answer's error to three digits. The step
+is then taken with the fifth-order answer, which is better than the estimate says.

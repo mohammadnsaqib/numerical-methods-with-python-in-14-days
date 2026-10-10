@@ -1,0 +1,4 @@
+largest first : 1.6449330668487701
+smallest first: 1.6449330668487263
+they differ   : True
+difference    : 4.374e-14

@@ -1,0 +1,5 @@
+largest gap in U: 6.661e-16
+largest gap in L: 1.110e-16
+nmkit row order : [4 5 3 0 2 1]
+scipy row order : [4 5 3 0 2 1]
+they agree      : True

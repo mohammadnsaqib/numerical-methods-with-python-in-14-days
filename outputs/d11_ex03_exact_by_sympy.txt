@@ -1,0 +1,6 @@
+f(t) =           sin(t)   f'(t) =                       cos(t)
+                   at t = 1.0: exact 0.540302305868, estimated 0.540302305896
+f(t) =    exp(t)*cos(t)   f'(t) = sqrt(2)*exp(t)*cos(t + pi/4)
+                   at t = 0.3: exact 0.890658820266, estimated 0.890658820252
+f(t) =         log(t)/t   f'(t) =            (1 - log(t))/t**2
+                   at t = 2.0: exact 0.076713204860, estimated 0.076713204872

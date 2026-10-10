@@ -1,0 +1,21 @@
+the reference value at t = 6 is 0.006891043806044
+
+                        method    calls         error
+          RK4, 200 fixed steps      800     5.689e-04
+          RK4, 800 fixed steps     3200     3.660e-05
+         RK4, 3200 fixed steps    12800     5.613e-14
+
+adaptive, first step 0.06, tol 1e-06      114     4.413e-03
+adaptive, first step 0.06, tol 1e-08      264     4.412e-03
+adaptive, first step 0.06, tol 1e-10     1176     3.593e-11
+
+adaptive, first step 0.001, tol 1e-06      132     4.412e-03
+adaptive, first step 0.001, tol 1e-08      612     3.039e-09
+adaptive, first step 0.001, tol 1e-10     1170     3.972e-11
+
+At tol 1e-10 the adaptive rule beats 3200 fixed steps by six decades on a third
+of the evaluations. At tol 1e-6 it misses the pulse entirely and reports no
+trouble, and a smaller first step does not save it: the controller is allowed to
+grow the step fivefold per success, so by t = 3 it is wide again. An error
+estimate is a statement about the step that WAS taken, never about what was
+skipped over.

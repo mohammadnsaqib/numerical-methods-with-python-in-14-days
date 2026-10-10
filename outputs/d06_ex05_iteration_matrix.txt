@@ -1,0 +1,4 @@
+       jacobi: spectral radius 0.353553
+               eigenvalues [0.353553 0.       0.353553]
+ gauss_seidel: spectral radius 0.125000
+               eigenvalues [0.    0.125 0.   ]

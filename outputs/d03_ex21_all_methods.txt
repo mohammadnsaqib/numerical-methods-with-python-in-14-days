@@ -1,0 +1,6 @@
+function      bisect  false pos  secant  newton
+x**3-2x-5         44         29       7       6
+cos(x)-x          44         12       7       5
+x**10-1            3        110    100!       8
+
+! marks a run that hit its iteration cap without converging.

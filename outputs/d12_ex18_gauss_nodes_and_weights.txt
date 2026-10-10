@@ -1,0 +1,15 @@
+n = 2
+  nodes  :  -0.577350   0.577350
+  weights:   1.000000   1.000000
+n = 3
+  nodes  :  -0.774597   0.000000   0.774597
+  weights:   0.555556   0.888889   0.555556
+n = 4
+  nodes  :  -0.861136  -0.339981   0.339981   0.861136
+  weights:   0.347855   0.652145   0.652145   0.347855
+n = 5
+  nodes  :  -0.906180  -0.538469   0.000000   0.538469   0.906180
+  weights:   0.236927   0.478629   0.568889   0.478629   0.236927
+
+the weights always add to 2, the width of [-1, 1]: 2.000000000000000
+no node ever sits at an endpoint, so an integrand may be undefined there

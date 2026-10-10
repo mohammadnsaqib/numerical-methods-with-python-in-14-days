@@ -1,0 +1,6 @@
+typed        : 0.1
+printed with 20 digits: 0.10000000000000000555
+stored exactly: 3602879701896397/36028797018963968
+is it 1/10 ?  : False
+0.1 + 0.2     : 0.30000000000000004441
+equals 0.3 ?  : False

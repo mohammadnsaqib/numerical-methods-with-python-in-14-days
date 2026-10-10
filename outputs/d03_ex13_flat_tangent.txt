@@ -1,0 +1,5 @@
+exactly flat:
+   Result(root=0.0, iterations=1, STOPPED, the derivative is zero: the tangent is flat)
+
+almost flat:
+   f'(start) = -2.220e-16  so the first step is -2.742e+16

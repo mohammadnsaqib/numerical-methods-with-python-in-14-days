@@ -1,0 +1,2 @@
+200 random systems, sizes 2 to 8
+largest disagreement with numpy.linalg.solve: 1.023e-12

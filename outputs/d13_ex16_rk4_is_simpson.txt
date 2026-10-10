@@ -1,0 +1,10 @@
+         integrand   steps          Runge-Kutta              Simpson        gap
+     g(t) = exp(t)       4    1.718284154699897    1.718284154699897    0.0e+00
+                        16    1.718281837561772    1.718281837561772    2.2e-16
+     g(t) = sin(t)       4    2.000269169948388    2.000269169948388    0.0e+00
+                        16    2.000001033369412    2.000001033369413    4.4e-16
+  g(t) = 1/(1+t^2)       4    1.323867281760810    1.323867281760810    2.2e-16
+                        16    1.325817640331539    1.325817640331539    2.2e-16
+
+one Runge-Kutta step evaluates at the two ends and twice at the middle, which
+is one Simpson panel. n steps are 2n Simpson panels, and the answers agree.

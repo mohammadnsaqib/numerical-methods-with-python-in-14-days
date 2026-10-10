@@ -1,0 +1,5 @@
+f(0) = -1.0  f(3) = 0.5  -> the signs differ
+bisection returned: 1.000000000000002 in 49 steps
+f there           : 5.629500e+14
+
+the method walked to the pole, not to a root. f is not continuous on [0, 3].

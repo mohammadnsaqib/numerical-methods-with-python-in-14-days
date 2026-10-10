@@ -1,0 +1,3 @@
+largest stretch found by searching: 3.2566165378
+mnorm(A, 2) computed directly     : 3.2566165380
+the search approaches it from below, as it must.

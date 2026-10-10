@@ -1,0 +1,7 @@
+                formula   error at h/2   error at h/4   measured order
+                forward      8.450e-03      4.216e-03           1.0030
+               backward      8.378e-03      4.198e-03           0.9969
+ one-sided, three point      7.035e-05      1.780e-05           1.9827
+                centred      3.602e-05      9.005e-06           2.0000
+             five point      2.881e-09      1.801e-10           4.0000
+      second derivative      2.805e-05      7.012e-06           2.0000

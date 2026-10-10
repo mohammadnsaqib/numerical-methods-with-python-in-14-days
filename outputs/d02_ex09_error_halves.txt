@@ -1,0 +1,13 @@
+ step           midpoint   half-width   true error  under it
+    1     2.500000000000    5.000e-01    4.054e-01      True
+    2     2.250000000000    2.500e-01    1.554e-01      True
+    3     2.125000000000    1.250e-01    3.045e-02      True
+    4     2.062500000000    6.250e-02    3.205e-02      True
+    5     2.093750000000    3.125e-02    8.015e-04      True
+    6     2.109375000000    1.562e-02    1.482e-02      True
+    7     2.101562500000    7.812e-03    7.011e-03      True
+    8     2.097656250000    3.906e-03    3.105e-03      True
+    9     2.095703125000    1.953e-03    1.152e-03      True
+   10     2.094726562500    9.766e-04    1.751e-04      True
+
+the half-width halves exactly every step. The true error bounces below it.

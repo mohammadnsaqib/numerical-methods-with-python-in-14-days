@@ -1,0 +1,12 @@
+steps accepted : 144
+steps rejected : 14
+shortest step  : 0.007531
+longest step   : 0.086563
+ratio          : 11.5
+
+          region    width   steps taken   steps per unit
+before the pulse      2.7            43             15.9
+       the pulse      0.6            57             95.0
+        after it      2.7            44             16.3
+
+the pulse occupies a tenth of the interval and takes six times the step density

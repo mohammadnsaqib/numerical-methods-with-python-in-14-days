@@ -1,0 +1,3 @@
+500 random node sets, 8 knots each
+smallest ratio of the diagonal to the sum of its neighbours: 2.000000
+the diagonal is 2(h1+h2) and the neighbours add to h1+h2, whatever the spacing.

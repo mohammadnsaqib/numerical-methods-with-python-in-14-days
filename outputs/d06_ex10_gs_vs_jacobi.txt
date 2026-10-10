@@ -1,0 +1,3 @@
+Jacobi      :  29 sweeps, spectral radius 0.353553
+Gauss-Seidel:  16 sweeps, spectral radius 0.125000
+the radius is squared: 0.125000

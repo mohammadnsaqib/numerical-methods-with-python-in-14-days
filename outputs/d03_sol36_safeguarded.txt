@@ -1,0 +1,2 @@
+x**3-2x-5: root +2.0945514815424  newton steps 5, bisection steps 7
+atan(x)  : root +0.0000000000000  newton steps 6, bisection steps 1

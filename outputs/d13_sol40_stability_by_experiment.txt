@@ -1,0 +1,8 @@
+the equation is y' = -20.0 y, whose solution decays to 1.8e-35
+
+    method   measured limit   from the polynomial        gap
+     euler       0.10000000            0.09999988    1.2e-07
+      heun       0.10000000            0.09999988    1.2e-07
+       rk4       0.13926468            0.13926468    2.6e-09
+
+a bisection on the step finds the same boundary the algebra gives

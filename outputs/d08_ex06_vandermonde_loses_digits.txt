@@ -1,0 +1,10 @@
+ points   miss at the nodes   gap from Lagrange   largest coeff
+      5           0.000e+00           4.441e-16       1.000e+00
+     10           4.441e-16           3.109e-15       1.000e+00
+     15           4.441e-16           5.773e-14       1.000e+00
+     20           4.441e-16           1.529e-12       1.000e+00
+     25           1.110e-16           3.538e-11       1.000e+00
+     30           6.661e-16           1.113e-09       1.000e+00
+
+the first column stays at the format's floor while the second grows by more than
+six orders. A small residual at the nodes says nothing about the polynomial.

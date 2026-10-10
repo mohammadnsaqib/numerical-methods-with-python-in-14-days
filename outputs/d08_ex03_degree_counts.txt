@@ -1,0 +1,5 @@
+2 points -> degree 1, leading coefficient +0.04704000
+3 points -> degree 2, leading coefficient -0.41197110
+4 points -> degree 3, leading coefficient -0.01039322
+5 points -> degree 4, leading coefficient +0.03782612
+6 points -> degree 5, leading coefficient +0.00054676

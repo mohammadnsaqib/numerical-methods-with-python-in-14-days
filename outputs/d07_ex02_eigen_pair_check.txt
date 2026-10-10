@@ -1,0 +1,5 @@
+lambda 4.0: residual 0.000e+00
+lambda 2.0: residual 0.000e+00
+lambda 3.5: residual 3.536e-01
+
+the third pair has the right direction and the wrong stretch.

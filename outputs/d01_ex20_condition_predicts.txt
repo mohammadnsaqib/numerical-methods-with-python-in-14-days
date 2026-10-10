@@ -1,0 +1,5 @@
+condition number      : 1.0001e+04
+relative change in x  : 2.2202e-16
+relative change in x-1: 2.2204e-12
+observed amplification: 1.0001e+04
+digits lost, predicted: 4.00

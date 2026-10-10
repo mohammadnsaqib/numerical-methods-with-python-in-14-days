@@ -1,0 +1,17 @@
+  h times lambda   implicit Euler    trapezoidal
+            -2.0      0.333333333    0.000000000
+           -10.0      0.090909091    0.666666667
+          -100.0      0.009900990    0.960784314
+         -1000.0      0.000999001    0.996007984
+       -100000.0      0.000010000    0.999960001
+
+both stay at or below one, so both are stable at every step. Only one of them
+goes to zero.
+
+       h    implicit Euler y(1)     trapezoidal y(1)
+    0.10          -9.051964e-17         6.702843e-01
+    0.50           3.984048e-06         9.841272e-01
+    1.00           9.990010e-04        -9.960080e-01
+
+the true value is 0. At h = 1 the trapezoidal answer is still the size it
+started, with its sign flipped at every step. It is stable and it is useless.

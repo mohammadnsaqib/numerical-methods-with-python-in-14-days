@@ -1,0 +1,13 @@
+ sweep           step   one sweep   two sweeps
+     2     1.8750e-01    0.250000     0.273861
+     3     9.3750e-02    0.500000     0.353553
+     4     2.3438e-02    0.250000     0.353553
+     5     1.1719e-02    0.500000     0.353553
+     6     2.9297e-03    0.250000     0.353553
+     7     1.4648e-03    0.500000     0.353553
+     8     3.6621e-04    0.250000     0.353553
+     9     1.8311e-04    0.500000     0.353553
+
+spectral radius: 0.353553
+the one-sweep ratio alternates because the largest entry of the error moves
+between components; over two sweeps it settles on the radius itself.

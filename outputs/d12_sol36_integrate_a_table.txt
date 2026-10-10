@@ -1,0 +1,8 @@
+readings              : 17
+panels                : 16
+trapezoidal rule      : 14.800000 kilowatt hours
+composite Simpson     : 14.825000 kilowatt hours
+they differ by        : 0.025000
+
+the mean power was 3.700000 kilowatts over the four hours
+no rule of higher order can be used: there are no values between the readings

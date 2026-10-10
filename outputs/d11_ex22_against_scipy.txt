@@ -1,0 +1,7 @@
+               f     centred   five point   Richardson       scipy
+          sin(t)    5.04e-12     1.50e-13     3.33e-16    8.44e-15
+          exp(t)    9.28e-12     1.09e-13     6.00e-15    2.75e-14
+          log(t)    2.61e-12     1.11e-13     2.11e-15    8.22e-13
+   t**5 - 3*t**2    5.60e-10     5.15e-12     1.87e-14    2.13e-14
+
+every column is an error against the derivative done in symbols

@@ -1,0 +1,5 @@
+root near 1e-8: 9.536743164062e-07 in 21 steps
+root near 1e8 : 1.000000000000e+08 in 50 steps
+
+relative error, small root: 9.437e+01
+relative error, large root: 5.364e-15

@@ -1,0 +1,5 @@
+started exactly on the second eigenvector
+eigenvalue found: 2.0000000000000  after 2 iterations
+the largest eigenvalue is 4.0
+
+rounding never introduced a component along e1, so the method stayed where it began.

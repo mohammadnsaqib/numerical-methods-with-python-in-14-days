@@ -1,0 +1,7 @@
+    method   energy at t = 0     at t = 50        drift
+     Euler    1.416146836547   1.593635667    1.775e-01
+      Heun    1.416146836547   1.416147779    9.428e-07
+       RK4    1.416146836547   1.416146837   -1.630e-12
+
+the pendulum is released from 2 radians, far outside the small-angle regime.
+no formula describes it, and the energy still says which method to trust.

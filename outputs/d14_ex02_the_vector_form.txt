@@ -1,0 +1,7 @@
+  equations   sum at t = 0   sum at t = 3   first tank
+          2    1.000000000    0.199148273  0.049787068
+          3    1.000000000    0.423190081  0.049787068
+          4    1.000000000    0.647231889  0.049787068
+
+the first tank always holds exp(-3) = 0.049787068, whatever follows it
+not one line of the solver knows how many equations it was given

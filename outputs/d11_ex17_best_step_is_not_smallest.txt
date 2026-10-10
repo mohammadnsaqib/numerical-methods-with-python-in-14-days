@@ -1,0 +1,10 @@
+           h        error   compared with the best
+   1.000e+00    8.565e-02
+   1.000e-02    9.005e-06
+   6.055e-06    5.037e-12    this is the best step
+   1.000e-09    2.970e-09
+   1.000e-12    1.227e-05
+   1.000e-15    1.481e-02
+
+the best step is 6.055e-06 and gives an error of 5.037e-12
+a step a billion times smaller gives 1.481e-02, worse by 2.940e+09 times

@@ -1,0 +1,4 @@
+diagonally dominant: radius   0.2500   converges: True   dominant: True
+barely dominant    : radius   0.9500   converges: True   dominant: True
+not dominant       : radius   2.0000   converges: False  dominant: False
+badly ordered      : radius   4.0000   converges: False  dominant: False

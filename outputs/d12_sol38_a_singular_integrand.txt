@@ -1,0 +1,13 @@
+the integral of 1/sqrt(t) on [0, 1] is finite: 2.000000000000000
+the INTEGRAND is not. It grows without bound as t approaches zero.
+
+composite Simpson, whose first node IS the endpoint: inf
+
+  points          Gauss        error    ratio
+      10    1.917063942    8.294e-02
+      40    1.978501249    2.150e-02    3.858
+     160    1.994575136    5.425e-03    3.963
+     640    1.998640609    1.359e-03    3.991
+
+with t = u squared the integrand becomes the constant 2: 2.000000000000000
+error 0.000e+00, from two evaluations rather than six hundred and forty

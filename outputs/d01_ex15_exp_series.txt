@@ -1,0 +1,5 @@
+exp(-25) by the series directly : 8.181279e-07
+exp(-25) as 1 / exp(+25)        : 1.388794e-11
+math.exp(-25)                   : 1.388794e-11
+relative error, direct     : 5.891e+04
+relative error, reciprocal : 5.817e-16
